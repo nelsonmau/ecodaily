@@ -1,0 +1,134 @@
+@font-face{font-family:Inter;font-weight:500;font-style:normal;font-display:swap;src:url(fonts/inter-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Inter;font-weight:700;font-style:normal;font-display:swap;src:url(fonts/inter-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:Inter;font-weight:800;font-style:normal;font-display:swap;src:url(fonts/inter-latin-800-normal.woff2) format("woff2")}
+:root{
+  --bg:#0B1626;--bg2:#14294A;--oro:#F2B33D;--azzurro:#4CC9F0;--linea-scura:#27405F;--tenue-scuro:#9FB3C8;
+  --carta:#FFFFFF;--fondo:#F5F7FA;--testo:#0B1626;--tenue:#47596F;--linea:#D5DCE5;--oro-testo:#8A5A00;--link:#0B5C8A;
+  --colonna:680px;--largo:1120px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:500;font-size:17px;line-height:1.6;color:var(--testo);background:var(--fondo)}
+a{color:var(--link);text-decoration-thickness:1px;text-underline-offset:3px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:3px solid var(--azzurro);outline-offset:2px}
+.vai-al-contenuto{position:absolute;left:-9999px;top:0;background:var(--oro);color:var(--bg);padding:8px 14px;font-weight:700;z-index:20}
+.vai-al-contenuto:focus{left:8px;top:8px}
+
+/* Testata */
+.testata{background:var(--bg);background:linear-gradient(135deg,var(--bg) 0%,var(--bg2) 100%);color:#fff}
+.testata-riga{max-width:var(--largo);margin:0 auto;padding:0 16px;height:60px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center}
+.logo{font-weight:800;font-size:28px;letter-spacing:-.5px;color:#fff;text-decoration:none;line-height:1}
+.logo span{color:var(--oro)}
+.menu{justify-self:start}
+.menu summary{list-style:none;cursor:pointer;width:44px;height:44px;display:grid;place-items:center;margin-left:-10px;border-radius:6px}
+.menu summary::-webkit-details-marker{display:none}
+.menu .panino{width:22px;height:2px;background:#fff;position:relative}
+.menu .panino::before,.menu .panino::after{content:"";position:absolute;left:0;width:22px;height:2px;background:#fff}
+.menu .panino::before{top:-7px}.menu .panino::after{top:7px}
+.menu nav{position:absolute;left:0;right:0;top:60px;background:var(--bg);border-top:1px solid var(--linea-scura);padding:8px 16px 16px;z-index:10}
+.menu nav a{display:block;color:#fff;text-decoration:none;font-weight:700;padding:12px 0;border-bottom:1px solid var(--linea-scura)}
+.menu nav a:last-child{border-bottom:0}
+.iscriviti-btn{justify-self:end;background:var(--oro);color:var(--bg);font-weight:800;font-size:14px;padding:9px 14px;border-radius:999px;text-decoration:none;white-space:nowrap}
+.iscriviti-btn:hover{background:#ffc75a}
+.sezioni{border-top:1px solid var(--linea-scura);background:rgba(0,0,0,.18)}
+.sezioni-riga{max-width:var(--largo);margin:0 auto;padding:0 16px;display:flex;gap:22px;overflow-x:auto;scrollbar-width:none}
+.sezioni a{color:var(--tenue-scuro);text-decoration:none;font-weight:700;font-size:14px;padding:11px 0 9px;border-bottom:3px solid transparent;white-space:nowrap}
+.sezioni a[aria-current=page]{color:#fff;border-bottom-color:var(--oro)}
+.sezioni a:hover{color:#fff}
+.data-riga{max-width:var(--largo);margin:0 auto;padding:14px 16px 0;color:var(--tenue);font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase}
+
+main{max-width:var(--largo);margin:0 auto;padding:0 16px 56px}
+.occhiello{font-weight:800;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--oro-testo);margin:0 0 6px}
+.occhiello::after{content:"";display:block;width:36px;height:3px;background:var(--oro);margin-top:6px;border-radius:2px}
+.meta{color:var(--tenue);font-size:13px;font-weight:700;margin:8px 0 0}
+.meta .punto{margin:0 6px}
+
+/* Storia di apertura */
+.apertura{padding:18px 0 22px;border-bottom:1px solid var(--linea)}
+.apertura h1,.apertura h2{font-weight:800;font-size:clamp(28px,7.6vw,44px);line-height:1.1;letter-spacing:-.02em;margin:0 0 12px}
+.apertura h1 a,.apertura h2 a{color:inherit;text-decoration:none}
+.apertura h2 a:hover{text-decoration:underline;text-decoration-color:var(--oro);text-decoration-thickness:3px}
+.attacco{color:var(--tenue);font-size:17px;line-height:1.5;margin:0}
+.immagine{display:block;width:100%;height:auto;border-radius:6px;margin:16px 0 0;aspect-ratio:16/9;background:var(--bg)}
+
+/* Elenco di storie */
+.storie{list-style:none;margin:0;padding:0}
+.storie li{padding:18px 0;border-bottom:1px solid var(--linea)}
+.storie h3{font-weight:800;font-size:clamp(21px,5.4vw,26px);line-height:1.18;letter-spacing:-.015em;margin:0 0 8px}
+.storie h3 a{color:inherit;text-decoration:none}
+.storie h3 a:hover{text-decoration:underline;text-decoration-color:var(--oro);text-decoration-thickness:3px}
+.storie .attacco{font-size:16px}
+
+h2.titolo-blocco{font-weight:800;font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin:30px 0 0;padding-top:12px;border-top:3px solid var(--bg)}
+.brevi{list-style:none;margin:0;padding:0}
+.brevi li{padding:14px 0;border-bottom:1px solid var(--linea);font-size:16px;line-height:1.5}
+
+/* Iscrizione */
+.iscrizione{background:var(--bg);background:linear-gradient(135deg,var(--bg) 0%,var(--bg2) 100%);color:#fff;border-radius:8px;padding:24px 20px;margin:36px 0 0}
+.iscrizione h2{font-weight:800;font-size:24px;line-height:1.15;margin:0 0 8px;color:#fff}
+.iscrizione p{margin:0 0 14px;color:var(--tenue-scuro);font-size:15px;line-height:1.5}
+.iscrizione form{display:flex;flex-direction:column;gap:10px}
+.iscrizione label{font-weight:700;font-size:14px}
+.iscrizione input[type=email]{font:inherit;font-size:16px;padding:12px 14px;border-radius:6px;border:2px solid var(--linea-scura);background:#fff;color:var(--bg);width:100%}
+.iscrizione button{font:inherit;font-weight:800;font-size:16px;padding:12px 18px;border-radius:6px;border:0;background:var(--oro);color:var(--bg);cursor:pointer}
+.iscrizione button:hover{background:#ffc75a}
+.iscrizione .nota{font-size:13px;margin:12px 0 0}
+.iscrizione a{color:#fff}
+.iscrizione .social{margin-top:14px;padding-top:14px;border-top:1px solid var(--linea-scura)}
+.iscrizione .social a{font-weight:700}
+
+/* Pagina della storia */
+.articolo{max-width:var(--colonna);margin:0 auto}
+.articolo header{padding:22px 0 8px}
+.articolo h1{font-weight:800;font-size:clamp(30px,8vw,46px);line-height:1.1;letter-spacing:-.02em;margin:0}
+.articolo .corpo{font-size:18px;line-height:1.7;margin-top:18px}
+.articolo .corpo p{margin:0 0 1.1em}
+.avviso-ai{background:var(--carta);border:1px solid var(--linea);border-left:4px solid var(--oro);border-radius:4px;padding:12px 14px;font-size:14px;line-height:1.5;color:var(--tenue);margin:18px 0}
+.fonti-box{border-top:3px solid var(--bg);margin-top:28px;padding-top:12px}
+.fonti-box h2{font-weight:800;font-size:13px;letter-spacing:.14em;text-transform:uppercase;margin:0 0 8px}
+.fonti-box ul{margin:0;padding-left:20px}
+.fonti-box li{margin:4px 0}
+.altre{margin-top:30px}
+.edizione-link{margin-top:22px;font-weight:700}
+
+/* Pagine di elenco e informative */
+.pagina{max-width:var(--colonna);margin:0 auto;padding-top:22px}
+.pagina h1{font-weight:800;font-size:clamp(30px,8vw,42px);line-height:1.1;letter-spacing:-.02em;margin:0 0 14px}
+.pagina h2{font-weight:800;font-size:20px;margin:28px 0 6px}
+.pagina p,.pagina li{font-size:17px}
+.elenco-date{list-style:none;margin:0;padding:0}
+.elenco-date li{padding:13px 0;border-bottom:1px solid var(--linea)}
+.elenco-date time{display:block;color:var(--tenue);font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.elenco-date a{font-weight:700;color:var(--testo);text-decoration:none}
+.elenco-date a:hover{text-decoration:underline;text-decoration-color:var(--oro);text-decoration-thickness:3px}
+details.fonti-giorno{margin-top:26px;border-top:3px solid var(--bg);padding-top:12px}
+details.fonti-giorno summary{font-weight:800;font-size:13px;letter-spacing:.14em;text-transform:uppercase;cursor:pointer}
+details.fonti-giorno h3{font-size:15px;margin:16px 0 4px}
+details.fonti-giorno ul{margin:0;padding-left:20px;font-size:15px}
+
+/* Piede */
+.piede{background:var(--bg);color:var(--tenue-scuro);font-size:14px;line-height:1.6}
+.piede-riga{max-width:var(--largo);margin:0 auto;padding:28px 16px 36px}
+.piede .logo{font-size:22px;display:inline-block;margin-bottom:10px}
+.piede p{margin:0 0 10px;max-width:var(--colonna)}
+.piede a{color:#fff}
+.piede nav{display:flex;gap:18px;flex-wrap:wrap;margin-top:14px;font-weight:700}
+
+/* Schermi larghi */
+@media (min-width:900px){
+  body{font-size:18px}
+  .testata-riga{height:76px}
+  .logo{font-size:36px}
+  .menu nav{top:76px}
+  .home-griglia{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:0 40px;align-items:start}
+  .home-griglia>.apertura{border-bottom:0;padding-right:0}
+  .home-griglia aside{border-left:1px solid var(--linea);padding-left:32px;margin-top:18px}
+  .home-griglia aside .storie li:first-child{padding-top:0}
+  .apertura h1,.apertura h2{font-size:48px}
+  .iscrizione{padding:30px 32px}
+  .iscrizione form{flex-direction:row}
+  .iscrizione label{position:absolute;left:-9999px}
+  .iscrizione input[type=email]{flex:1}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}

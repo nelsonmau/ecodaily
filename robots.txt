@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nelsonmau.github.io/ecodaily/sitemap.xml
