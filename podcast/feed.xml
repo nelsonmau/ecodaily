@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EcoDaily</title>
+    <link>https://nelsonmau.github.io/ecodaily/</link>
+    <atom:link href="https://nelsonmau.github.io/ecodaily/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Le notizie economiche del giorno, in una versione audio di pochi minuti. EcoDaily non è una testata giornalistica: è un progetto sperimentale. I testi sono scritti con l'intelligenza artificiale a partire da articoli di altre testate e la voce è sintetica, generata con l'intelligenza artificiale. Il lunedì il ricapitolo della settimana. Testi e fonti sul sito.</description>
+    <language>it</language>
+    <copyright>Andrea Nelson Mauro</copyright>
+    <itunes:author>Andrea Nelson Mauro</itunes:author>
+    <itunes:summary>Le notizie economiche del giorno, in una versione audio di pochi minuti. EcoDaily non è una testata giornalistica: è un progetto sperimentale. I testi sono scritti con l'intelligenza artificiale a partire da articoli di altre testate e la voce è sintetica, generata con l'intelligenza artificiale. Il lunedì il ricapitolo della settimana. Testi e fonti sul sito.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://nelsonmau.github.io/ecodaily/podcast/copertina.png"/>
+    <image><url>https://nelsonmau.github.io/ecodaily/podcast/copertina.png</url><title>EcoDaily</title><link>https://nelsonmau.github.io/ecodaily/</link></image>
+    <itunes:owner><itunes:name>Andrea Nelson Mauro</itunes:name><itunes:email>nelson@ondata.it</itunes:email></itunes:owner>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <item>
+      <title>Manovra e trattative Ue e Bce apre a UniCredit</title>
+      <description>Le notizie economiche del giorno. Temi: Politica economica e manovra; Mercati e settore bancario; Energia e materie prime; Economia sommersa e clima. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-20/</description>
+      <itunes:summary>Le notizie economiche del giorno. Temi: Politica economica e manovra; Mercati e settore bancario; Energia e materie prime; Economia sommersa e clima. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-20/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-20/</link>
+      <guid isPermaLink="false">ecodaily-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-10-20.mp3" length="4692053" type="audio/mpeg"/>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Settimanale: Manovra 2027, automotive europeo, bilancio Ue e scambi commerciali con la Cina</title>
+      <description>Il ricapitolo della settimana (dal 2026-10-13 al 2026-10-19). Temi: Manovra 2027 e finanza pubblica italiana; Automotive e intesa industriale franco-tedesca; Vertice Ue, competitività e negoziato sul bilancio pluriennale. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-19-settimanale/</description>
+      <itunes:summary>Il ricapitolo della settimana (dal 2026-10-13 al 2026-10-19). Temi: Manovra 2027 e finanza pubblica italiana; Automotive e intesa industriale franco-tedesca; Vertice Ue, competitività e negoziato sul bilancio pluriennale. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-19-settimanale/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-19-settimanale/</link>
+      <guid isPermaLink="false">ecodaily-2026-10-19-settimanale</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-10-19-settimanale.mp3" length="5927959" type="audio/mpeg"/>
+      <itunes:duration>00:06:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Asse Francia-Germania sull'automotive e manovra italiana da 23,5 miliardi</title>
+      <description>Le notizie economiche del giorno. Temi: Politica economica e manovra in Italia; Accordo franco-tedesco su automotive e competitività Ue; Sanzioni alla Russia e tensioni geopolitiche; Credito bancario e mercati finanziari. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-18/</description>
+      <itunes:summary>Le notizie economiche del giorno. Temi: Politica economica e manovra in Italia; Accordo franco-tedesco su automotive e competitività Ue; Sanzioni alla Russia e tensioni geopolitiche; Credito bancario e mercati finanziari. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-18/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-18/</link>
+      <guid isPermaLink="false">ecodaily-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-10-18.mp3" length="5397986" type="audio/mpeg"/>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Accordo franco-tedesco sull'auto, Pil italiano in rialzo e bilancio europeo al vertice</title>
+      <description>Le notizie economiche del giorno. Temi: Accordo franco-tedesco sul settore automobilistico; Crescita economica e occupazione in Italia; Negoziati sul bilancio pluriennale dell'Unione Europea; Rappresentanza sindacale e trattative salariali. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-17/</description>
+      <itunes:summary>Le notizie economiche del giorno. Temi: Accordo franco-tedesco sul settore automobilistico; Crescita economica e occupazione in Italia; Negoziati sul bilancio pluriennale dell'Unione Europea; Rappresentanza sindacale e trattative salariali. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-17/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-17/</link>
+      <guid isPermaLink="false">ecodaily-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-10-17.mp3" length="6016148" type="audio/mpeg"/>
+      <itunes:duration>00:06:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Manovra, Confindustria e crescita Uk</title>
+      <description>Le notizie economiche del giorno. Temi: Manovra economica e Dpb; Previsioni macroeconomiche e Pil; Politica commerciale europea e Cina. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-16/</description>
+      <itunes:summary>Le notizie economiche del giorno. Temi: Manovra economica e Dpb; Previsioni macroeconomiche e Pil; Politica commerciale europea e Cina. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-16/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-16/</link>
+      <guid isPermaLink="false">ecodaily-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-10-16.mp3" length="4073892" type="audio/mpeg"/>
+      <itunes:duration>00:04:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
