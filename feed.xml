@@ -6,6 +6,34 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Politica economica e manovra</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-20/politica-economica-e-manovra/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-20/politica-economica-e-manovra/</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Il disegno di legge di bilancio non è stato approvato dal Consiglio dei ministri a causa del termine non perentorio del 20 ottobre, come riporta il Corriere della Sera.</description>
+    </item>
+    <item>
+      <title>Mercati e settore bancario</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-20/mercati-e-settore-bancario/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-20/mercati-e-settore-bancario/</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <description>La Banca centrale europea ha dato il via libera a UniCredit per superare la soglia del 30% del capitale di Commerzbank e salire senza limiti, come evidenzia Wall Street Italia.</description>
+    </item>
+    <item>
+      <title>Energia e materie prime</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-20/energia-e-materie-prime/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-20/energia-e-materie-prime/</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Lunedì il prezzo del gas naturale alla borsa di Amsterdam ha superato gli 87 euro al megawattora, toccando il valore più alto da dicembre 2022, secondo quanto riporta Il Post.</description>
+    </item>
+    <item>
+      <title>Economia sommersa e clima</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-20/economia-sommersa-e-clima/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-20/economia-sommersa-e-clima/</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Nel 2024 l'economia non osservata in Italia ha raggiunto quota 218,2 miliardi di euro, in aumento dello 0,3% rispetto all'anno precedente, mentre l'incidenza sul Pil è scesa dal 10,2% al 9,9% con oltre 3,2 milioni di unità di lavoro irregolare, come documenta Wall Street Italia.</description>
+    </item>
+    <item>
       <title>Manovra 2027 e finanza pubblica italiana</title>
       <link>https://nelsonmau.github.io/ecodaily/2026-10-19-settimanale/manovra-2027-e-finanza-pubblica-italiana/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-19-settimanale/manovra-2027-e-finanza-pubblica-italiana/</guid>
@@ -340,34 +368,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-06/conti-pubblici-italiani-e-pressione-fiscale/</guid>
       <pubDate>Tue, 06 Oct 2026 07:00:00 GMT</pubDate>
       <description>La situazione della finanza pubblica in Italia evidenzia nuove complessità legate agli effetti dell'inflazione e ai vincoli della prossima legge di Bilancio.</description>
-    </item>
-    <item>
-      <title>Mercati energetici e rilascio delle riserve G7</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/mercati-energetici-e-rilascio-delle-riserve-g7/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/mercati-energetici-e-rilascio-delle-riserve-g7/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Le tensioni sull'approvvigionamento di combustibili hanno dominato il confronto politico internazionale. Dopo le ipotesi avanzate da Washington di imporre un blocco alle esportazioni di carburante per frenare i rincari interni, come documentato da Politico Europe, i governi europei si sono…</description>
-    </item>
-    <item>
-      <title>Finanza pubblica e quadro programmatico della manovra italiana</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/finanza-pubblica-e-quadro-programmatico-della-manovra-italia/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/finanza-pubblica-e-quadro-programmatico-della-manovra-italia/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Sul fronte interno, l'esecutivo ha delineato l'architettura della prossima Legge di Bilancio attraverso il Documento programmatico di finanza pubblica. Il ministro Giancarlo Giorgetti ha comunicato il ricorso a una flessibilità complessiva di 29 miliardi di euro nel biennio 2027-2028, resa…</description>
-    </item>
-    <item>
-      <title>Volatilità sui mercati obbligazionari e inflazione</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/volatilita-sui-mercati-obbligazionari-e-inflazione/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/volatilita-sui-mercati-obbligazionari-e-inflazione/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Le incertezze sui bilanci sovrani e l'andamento delle materie prime hanno generato forte instabilità sul comparto dei titoli di Stato. In Francia, il debito salito al 119% del Pil ha accompagnato la presentazione di una manovra restrittiva da decine di miliardi, innescando vendite sui titoli…</description>
-    </item>
-    <item>
-      <title>Commercio estero e competitività delle imprese italiane</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/commercio-estero-e-competitivita-delle-imprese-italiane/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-05-settimanale/commercio-estero-e-competitivita-delle-imprese-italiane/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <description>I dati di bilancio elaborati dal sistema economico hanno tracciato un quadro di tenuta per l'industria italiana trainata dai mercati internazionali. L'Area Studi di Mediobanca ha rilevato per il 2025 una ripresa dei ricavi (+0,5%) e investimenti materiali a quota 35,5 miliardi di euro per le grandi…</description>
     </item>
   </channel>
 </rss>
