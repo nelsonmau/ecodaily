@@ -6,6 +6,34 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Conti pubblici e collocamento titoli di Stato</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-22/conti-pubblici-e-collocamento-titoli-di-stato/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-22/conti-pubblici-e-collocamento-titoli-di-stato/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>L'Istat ha formalizzato a Bruxelles i parametri economici dell'Italia per il 2025, attestando il deficit al 3,1% del Prodotto interno lordo e il debito pubblico al 136,7%, senza che siano state sollevate riserve da Commissione europea ed Eurostat, come segnala l'ANSA.</description>
+    </item>
+    <item>
+      <title>Misure fiscali e lavoro in Italia</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-22/misure-fiscali-e-lavoro-in-italia/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-22/misure-fiscali-e-lavoro-in-italia/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>In vista della definizione della legge di bilancio, il governo valuta sgravi fiscali per un anno in busta paga a favore dei giovani assunti al primo impiego, insieme a sostegni dedicati a casa e locazioni, riferisce la Repubblica.</description>
+    </item>
+    <item>
+      <title>Mercati azionari e geopolitica energetica</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-22/mercati-azionari-e-geopolitica-energetica/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-22/mercati-azionari-e-geopolitica-energetica/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Le borse europee hanno affrontato una seduta caratterizzata da forte volatilità, con Piazza Affari che ha chiuso in parità mentre il Brent si è mantenuto nell'area dei 108 dollari al barile, nota Il Sole 24 Ore.</description>
+    </item>
+    <item>
+      <title>Normative comunitarie, fondi e indagini antitrust</title>
+      <link>https://nelsonmau.github.io/ecodaily/2026-10-22/normative-comunitarie-fondi-e-indagini-antitrust/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-22/normative-comunitarie-fondi-e-indagini-antitrust/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>La Commissione europea ha approvato l'allocazione di 3,4 miliardi di euro tramite l'Innovation Fund per finanziare 77 progetti industriali a impatto zero, come documentato da Il Sole 24 Ore.</description>
+    </item>
+    <item>
       <title>Risiko bancario europeo e italiano</title>
       <link>https://nelsonmau.github.io/ecodaily/2026-10-21/risiko-bancario-europeo-e-italiano/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-21/risiko-bancario-europeo-e-italiano/</guid>
@@ -354,27 +382,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-08/trattative-commerciali-ue-cina-sulle-automobili/</guid>
       <pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate>
       <description>La Commissione Europea e la Cina stanno concentrando i propri negoziati sul settore automobilistico, con particolare attenzione alle esportazioni cinesi di veicoli ibridi, in vista della visita a Pechino del responsabile del commercio UE Maroš Šefčovič.</description>
-    </item>
-    <item>
-      <title>Economia e inflazione</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-07/economia-e-inflazione/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-07/economia-e-inflazione/</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Nel secondo trimestre del 2026 la spesa pubblica in Italia è salita al 50,9% del PIL, mentre la pressione fiscale ha raggiunto il 43,5%, secondo quanto analizzato da Il Foglio.</description>
-    </item>
-    <item>
-      <title>Energia e mercati finanziari</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-07/energia-e-mercati-finanziari/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-07/energia-e-mercati-finanziari/</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Le Borse europee hanno registrato un avvio in calo in concomitanza con il nuovo rialzo del prezzo del petrolio Brent, tornato sopra i 101 dollari al barile a seguito degli attacchi nello Stretto di Hormuz, come indicato da Il Sole 24 Ore.</description>
-    </item>
-    <item>
-      <title>Politiche di bilancio e Unione Europea</title>
-      <link>https://nelsonmau.github.io/ecodaily/2026-10-07/politiche-di-bilancio-e-unione-europea/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/2026-10-07/politiche-di-bilancio-e-unione-europea/</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <description>La presidente della Commissione Europea Ursula von der Leyen ha messo in guardia contro ampi tagli al prossimo bilancio pluriennale dell'UE, avvertendo che ridurrebbero le risorse destinate a competitività e autonomia energetica, come evidenziato da Politico Europe.</description>
     </item>
   </channel>
 </rss>
