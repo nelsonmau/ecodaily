@@ -1,0 +1,34 @@
+@font-face{font-family:Inter;font-weight:500;font-style:normal;font-display:swap;src:url(fonts/inter-latin-500-normal.woff2) format("woff2")}
+@font-face{font-family:Inter;font-weight:700;font-style:normal;font-display:swap;src:url(fonts/inter-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:Inter;font-weight:800;font-style:normal;font-display:swap;src:url(fonts/inter-latin-800-normal.woff2) format("woff2")}
+:root{--bg:#0B1626;--bg2:#14294A;--oro:#F2B33D;--azzurro:#4CC9F0;--linea:#27405F;--tenue:#9FB3C8}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;background:var(--bg)}
+body{margin:0;min-height:100vh;display:flex;flex-direction:column;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:500;font-size:17px;line-height:1.6;color:#fff;background:linear-gradient(135deg,var(--bg2) 0%,var(--bg) 100%)}
+a{color:#fff}
+:focus-visible{outline:3px solid var(--azzurro);outline-offset:3px}
+.portale{flex:1;width:100%;max-width:640px;margin:0 auto;padding:56px 20px 24px;display:flex;flex-direction:column;align-items:center;text-align:center}
+.logo-grande{margin:0;max-width:200px;font-weight:800;font-size:42px;letter-spacing:-1.2px;line-height:1;white-space:nowrap}
+.logo-grande span{color:var(--oro)}
+.frase{margin:22px 0 0;font-size:20px;line-height:1.45;color:#fff;max-width:30em}
+.audio{width:100%;margin-top:34px;padding:16px;border:1px solid var(--linea);border-radius:14px;background:rgba(11,22,38,.55)}
+.audio-titolo{margin:0 0 10px;font-size:14px;font-weight:700;color:var(--tenue)}
+.audio audio{width:100%;display:block}
+.tessere{list-style:none;margin:34px 0 0;padding:0;width:100%;display:grid;grid-template-columns:1fr;gap:14px}
+.tessere a{display:flex;flex-direction:column;align-items:center;gap:4px;height:100%;padding:20px 14px;border:1px solid var(--linea);border-radius:14px;background:rgba(11,22,38,.55);text-decoration:none;color:#fff}
+.tessere a:hover,.tessere a:focus-visible{border-color:var(--oro);background:rgba(20,41,74,.9)}
+.tessere svg{color:var(--oro);margin-bottom:6px}
+.t-titolo{font-weight:800;font-size:17px;line-height:1.3}
+.t-nota{font-size:14px;color:var(--tenue)}
+.leggi{margin:26px 0 0;font-weight:700}
+.leggi a{color:var(--oro);text-underline-offset:4px}
+.portale-piede{padding:18px 20px 30px;text-align:center;font-size:15px;color:var(--tenue)}
+.portale-piede p{margin:0}
+.portale-piede a{color:#fff}
+@media (min-width:700px){
+  .portale{max-width:860px;padding-top:88px}
+  .frase{font-size:24px}
+  .audio{max-width:560px}
+  .tessere{grid-template-columns:repeat(3,1fr)}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}

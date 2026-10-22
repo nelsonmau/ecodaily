@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Metodologia di selezione | EcoDaily</title>
+<meta name="description" content="Come EcoDaily sceglie le notizie: il metodo, le prove sugli stessi candidati e la verifica sulla letteratura scientifica.">
+<meta name="theme-color" content="#0B1626">
+<link rel="canonical" href="https://nelsonmau.github.io/ecodaily/news/metodologia/">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="EcoDaily" href="../feed.xml">
+<link rel="alternate" type="application/rss+xml" title="EcoDaily, il podcast" href="https://nelsonmau.github.io/ecodaily/podcast/feed.xml">
+<meta property="og:site_name" content="EcoDaily">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Metodologia di selezione | EcoDaily">
+<meta property="og:description" content="Come EcoDaily sceglie le notizie: il metodo, le prove sugli stessi candidati e la verifica sulla letteratura scientifica.">
+<meta property="og:url" content="https://nelsonmau.github.io/ecodaily/news/metodologia/">
+<meta property="og:locale" content="it_IT">
+<link rel="stylesheet" href="../style.css?v=6d0f3484">
+</head>
+<body>
+<a class="vai-al-contenuto" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <div class="testata-riga">
+    <details class="menu">
+      <summary aria-label="Menu"><span class="panino"></span></summary>
+      <nav aria-label="Principale">
+        <a href="../../">Home</a>
+        <a href="../">Oggi</a>
+        <a href="../2026-10-19-settimanale/">Settimana</a>
+        <a href="../archivio/">Archivio</a>
+        <a href="../metodologia/">Metodologia</a>
+        <a href="../info/">Informazioni</a>
+        <a href="https://buttondown.com/ecodaily/archive/" rel="noopener">Newsletter</a>
+        <a href="https://www.instagram.com/ecodaily.it/" rel="noopener">Instagram</a>
+        <a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener">Spotify</a>
+      </nav>
+    </details>
+    <a class="logo" href="../" aria-label="EcoDaily, home">Eco<span>Daily</span></a>
+    <a class="iscriviti-btn" href="../#iscriviti">Iscriviti</a>
+  </div>
+  <div class="sezioni"><nav class="sezioni-riga" aria-label="Sezioni">
+    <a href="../">Oggi</a><a href="../2026-10-19-settimanale/">Settimana</a><a href="../archivio/">Archivio</a><a href="../metodologia/" aria-current="page">Metodologia</a><a href="../info/">Informazioni</a>
+  </nav></div>
+</header>
+
+<main id="contenuto">
+<div class="pagina larga">
+<h1>Metodologia: come nasce EcoDaily</h1>
+<p class="sottotitolo">Come scegliamo, scriviamo e controlliamo le notizie, su cosa si basano i criteri e quali sono i limiti.</p>
+
+<section id="inbreve"><h2>In breve</h2>
+<p>EcoDaily è un progetto di ricerca sperimentale. Ogni giorno raccoglie le notizie di economia di testate italiane e internazionali, istituti di ricerca e associazioni, ne sceglie le più importanti e le riassume con l&rsquo;intelligenza artificiale, sempre con il link alla fonte. Tutti i contenuti sono generati con l&rsquo;AI e <b>potrebbero contenere errori</b>: nessuna persona li rilegge prima della pubblicazione. Questa pagina spiega come funziona, perché i criteri non sono arbitrari e dove sono i limiti.</p>
+</section>
+
+<nav class="indice" aria-label="Indice della pagina"><h2>Indice</h2><ol>
+<li><a href="#nasce">Come nasce ogni edizione</a></li>
+<li><a href="#scelta">Come scegliamo le notizie</a></li>
+<li><a href="#criteri">Su cosa si basano i criteri</a></li>
+<li><a href="#ricerca">Cosa viene dalla ricerca e cosa è scelta nostra</a></li>
+<li><a href="#verifica">Verifica dei testi e limiti dell&rsquo;AI</a></li>
+<li><a href="#limiti">Limiti dello studio e passi successivi</a></li>
+<li><a href="#fonti">Fonti e termini d&rsquo;uso</a></li>
+<li><a href="#contatti">Contatti</a></li>
+</ol></nav>
+
+<section id="nasce"><h2>1. Come nasce ogni edizione</h2>
+<ol>
+<li><b>Raccolta.</b> Un programma legge ogni giorno siti, sezioni e feed di un elenco prestabilito di fonti (<a href="#fonti">l&rsquo;elenco è più sotto</a>). Usa solo il testo pubblico: non aggira paywall né login. Scarta le pagine di servizio, i testi troppo brevi, gli articoli vecchi e i doppioni.</li>
+<li><b>Classificazione.</b> Un modello di intelligenza artificiale (al momento della famiglia Gemini, con un ripiego su altri modelli con piano gratuito) legge ogni notizia e risponde a domande chiuse: di che evento si tratta, chi agisce, quanto pesa, che ricaduta ha, se è davvero nuova. Ogni risposta ha una motivazione scritta.</li>
+<li><b>Selezione.</b> Una tabella di regole dichiarate, senza AI, trasforma le risposte in un livello di importanza. Entrano le notizie più importanti, in ordine (<a href="#scelta">come, nella sezione 2</a>).</li>
+<li><b>Scrittura.</b> Titolo e introduzione sono scritti dall&rsquo;AI solo a partire dai materiali selezionati, con un link alla fonte per ogni tema. Il ricapitolo del lunedì riprende i materiali dei digest della settimana.</li>
+<li><b>Verifica.</b> Prima dell&rsquo;invio altri passaggi automatici controllano i testi (<a href="#verifica">sezione 5</a>).</li>
+<li><b>Pubblicazione.</b> Il digest esce come newsletter (<a href="https://buttondown.com/ecodaily/archive/" rel="noopener">archivio</a>), sul sito, come podcast con voce sintetica (<a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener">Spotify</a>) e come video breve (<a href="https://www.instagram.com/ecodaily.it/" rel="noopener">Instagram</a>). Il copione di podcast e video è generato e verificato come il testo.</li>
+</ol>
+</section>
+
+<section id="scelta"><h2>2. Come scegliamo le notizie</h2>
+<p>Ogni notizia riceve un livello di importanza da una tabella di regole scritte in chiaro; vale la prima regola che corrisponde. L&rsquo;AI classifica, ma non decide da sola cosa entra.</p>
+<div class="scorri"><table class="tab regole">
+<tr><th>Molto importante</th><td>Una decisione, l&rsquo;attuazione di una misura, una trattativa o un vertice, oppure un dato nuovo, di un soggetto di peso alto, con ricadute nazionali o europee e riflessi sull&rsquo;Italia. Hanno peso alto solo chi decide o emette dati con effetto diretto sull&rsquo;economia italiana o europea: il governo e i ministri competenti, la Commissione europea, la BCE, la Banca d&rsquo;Italia, ISTAT ed Eurostat, i grandi gruppi quotati italiani o europei. Governi e banche centrali di altre grandi economie solo se la decisione ha effetto diretto sull&rsquo;Italia o sull&rsquo;Europa; un tribunale o un&rsquo;autorità di settore, o un istituto statistico di un altro paese, no.</td></tr>
+<tr><th>Importante</th><td>Gli stessi fatti con ricaduta su un settore o con un soggetto di peso medio; trattative, azioni collettive o eventi improvvisi di peso alto con ricaduta su un settore o più. Qui scendono anche le notizie «molto importanti» senza riflessi sull&rsquo;Italia.</td></tr>
+<tr><th>Secondaria</th><td>Fatti non coperti sopra e dichiarazioni di soggetti di peso alto con ricaduta su un settore o più.</td></tr>
+<tr><th>Poco importante</th><td>Il resto: dichiarazioni di peso basso, analisi e commenti senza un fatto nuovo. Non entrano mai nel digest.</td></tr>
+</table></div>
+<ul>
+<li><b>Prima i fatti.</b> Una decisione o un dato valgono più di una dichiarazione. Un dato conta come nuovo solo se è già stato pubblicato, non se è in calendario o in anteprima.</li>
+<li><b>Estero.</b> Una notizia dall&rsquo;estero senza riflessi sull&rsquo;Italia non va oltre «Importante»; per i dati, la fascia più alta è riservata a Italia e UE. Le notizie dall&rsquo;estero hanno anche un tetto numerico.</li>
+<li><b>Novità.</b> Se una notizia non porta un fatto nuovo rispetto a quelle già pubblicate nei giorni scorsi, la scartiamo; i seguiti con un fatto nuovo restano.</li>
+<li><b>Posti variabili.</b> Entrano solo «Molto importante» e «Importante», fino a un massimo. Se sono troppo poche, si scende alle «Secondarie» fino a un minimo; le «Poco importanti» mai. In una giornata povera il digest è più corto.</li>
+<li><b>Ordine.</b> Dentro ogni livello, l&rsquo;AI ordina le notizie con due confronti a ordine d&rsquo;ingresso opposto e raggruppa quelle sullo stesso fatto, di cui resta una sola. A parità contano il conflitto esplicito tra le parti, il peso di chi agisce e la data. Un punteggio numerico non decide mai il livello.</li>
+</ul>
+</section>
+
+<section id="criteri"><h2>3. Su cosa si basano i criteri</h2>
+<p>I criteri non sono arbitrari: li abbiamo ricavati da alcuni lavori scientifici sulla <i>newsworthiness</i>, cioè su come le redazioni scelgono le notizie e decidono quali sono più rilevanti. Ne abbiamo letti nove, ciascuno con il suo indirizzo per scaricarlo:</p>
+<ul>
+<li>Geiß e Kepplinger (2025), «Are all News Created Equal? How Event Types Change News Emphasis and Interact with News Factors»: il tipo di evento conta di per sé e cambia il peso degli altri fattori: base dei nostri tipi di evento e dell&rsquo;interazione tra potere e portata. <a href="https://doi.org/10.1080/1461670X.2025.2487844" rel="noopener">Scarica</a></li>
+<li>Boukes, Jones e Vliegenthart (2020), «Newsworthiness and story prominence»: 4.968 notizie economiche olandesi: quali fattori portano in prima pagina; il più vicino al nostro caso. <a href="https://doi.org/10.1177/1464884919899313" rel="noopener">Scarica</a></li>
+<li>Boukes e Vliegenthart (2020), «A general pattern in the construction of economic newsworthiness?»: i fattori notizia nelle notizie economiche di quotidiani popolari, di qualità, regionali e finanziari. <a href="https://doi.org/10.1177/1464884917725989" rel="noopener">Scarica</a></li>
+<li>Harcup e O&rsquo;Neill (2017), «What is News? News values revisited (again)»: la lista dei valori notizia ricavata da 711 articoli di apertura di quotidiani britannici. <a href="https://doi.org/10.1080/1461670X.2016.1150193" rel="noopener">Scarica</a></li>
+<li>Eilders (2006), «News factors and news decisions»: rassegna dei fattori notizia e di come si misurano, nella ricerca tedesca. <a href="https://doi.org/10.1515/commun.2006.002" rel="noopener">Scarica</a></li>
+<li>Kepplinger e Ehmig (2006), «Predicting news decisions»: la teoria dei due componenti della selezione delle notizie, verificata con un esperimento. <a href="https://doi.org/10.1515/commun.2006.003" rel="noopener">Scarica</a></li>
+<li>Spangher et al. (2023), «Tracking the Newsworthiness of Public Documents»: come chiedere a un modello se un documento è una notizia: la domanda generica funziona male, quelle specifiche meglio. <a href="https://arxiv.org/abs/2311.09734" rel="noopener">Scarica</a></li>
+<li>Welsh, Zhou e Spangher (2025), «NewsHomepages»: 363.000 schermate di homepage per studiare come le redazioni ordinano le notizie, con confronti a coppie. <a href="https://doi.org/10.32388/X9L7AS" rel="noopener">Scarica</a></li>
+<li>Bengtsson (2023), «The Relevance of Digital News»: la rilevanza dal punto di vista del pubblico, usata solo come inquadramento. <a href="https://doi.org/10.1080/21670811.2022.2150254" rel="noopener">Scarica</a></li>
+</ul>
+<p>Cinque idee guida:</p>
+<ul>
+<li><b>Il potere di chi agisce o parla</b> è il fattore più forte e stabile (Boukes et al. 2020: ×2,10 sulla probabilità di prima pagina nelle notizie economiche olandesi; Geiß e Kepplinger 2025).</li>
+<li><b>Il tipo di evento</b> conta di per sé e cambia il peso degli altri fattori (Geiß e Kepplinger 2025).</li>
+<li><b>La portata da sola non aiuta</b>, insieme al potere sì (Geiß e Kepplinger: portata −4,0, potere × portata +4,9 sulla posizione nel giornale).</li>
+<li><b>All&rsquo;AI vanno fatte domande specifiche e chiuse</b> (Spangher et al. 2023: «è una notizia? sì/no» funziona male).</li>
+<li><b>Il confronto vale più del voto assoluto</b> (Welsh, Zhou e Spangher 2025: confronto a coppie).</li>
+</ul>
+<p>Due lavori li abbiamo letti integralmente (Geiß e Kepplinger 2025; Boukes e Vliegenthart 2020); per Eilders (2006) e Kepplinger e Ehmig (2006) ci siamo basati sulle schede di lettura.</p>
+</section>
+
+<section id="ricerca"><h2>4. Cosa viene dalla ricerca e cosa è scelta nostra</h2>
+<p>Non tutto ciò che facciamo è sostenuto dalla letteratura. Qui distinguiamo tre casi.</p>
+<h3>Sostenuto dai lavori</h3>
+<div class="scorri"><table class="tab"><thead><tr><th>Scelta</th><th>Appoggio</th></tr></thead><tbody>
+<tr><td>Il tipo di evento come asse</td><td>Geiß e Kepplinger: il tipo conta di per sé e cambia il peso degli altri fattori</td></tr>
+<tr><td>Il peso di chi agisce come condizione principale</td><td>Fattore più forte in Boukes (×2,10) e in Geiß e Kepplinger</td></tr>
+<tr><td>La ricaduta mai da sola</td><td>Portata da sola −4,0; potere × portata +4,9</td></tr>
+<tr><td>Livelli per presenza dei fattori, non somme di punti (da scheda di lettura)</td><td>Eilders: presenza e intensità pesano diversamente; Kepplinger e Ehmig: i fattori deboli valgono zero</td></tr>
+<tr><td>Prima un filtro di pertinenza</td><td>Boukes: il campione è «l&rsquo;articolo parla di economia?»</td></tr>
+<tr><td>Positività e negatività escluse</td><td>Geiß e Kepplinger: l&rsquo;effetto cambia segno per tipo di evento</td></tr>
+<tr><td>Definizioni operative con esempi negativi, domande specifiche all&rsquo;AI</td><td>Boukes: istruzioni di codifica con affidabilità misurata; Spangher: domande specifiche</td></tr>
+</tbody></table></div>
+<h3>Adattato o con cautela</h3>
+<div class="scorri"><table class="tab"><thead><tr><th>Scelta</th><th>Perché con cautela</th></tr></thead><tbody>
+<tr><td>Trattative e vertici di peso alto fino a «Molto importante»</td><td>Geiß e Kepplinger: dibattiti, elezioni e vertici ottengono i posti migliori, ma sono quotidiani politici tedeschi del 1951-1995</td></tr>
+<tr><td>Evento improvviso non oltre «Importante»</td><td>Incidenti e crimini ottengono posti peggiori nei lavori, ma i loro incidenti non sono shock di mercato</td></tr>
+<tr><td>Conflitto solo per ordinare</td><td>×2,74 in Boukes; nullo in Kepplinger e Ehmig (esperimento con studenti)</td></tr>
+<tr><td>Confronto sul pacchetto per ordinare</td><td>Welsh et al. usano il confronto a coppie; noi ordiniamo l&rsquo;intero gruppo, per questo con due passate a ordine opposto</td></tr>
+<tr><td>Istituti statistici nel peso alto</td><td>L&rsquo;élite di Boukes è un elenco (UE, governi anche esteri, banche centrali, sindacati, associazioni datoriali) che non include tribunali né istituti statistici: ammettiamo solo ISTAT ed Eurostat come emittenti di dati, un&rsquo;estensione nostra</td></tr>
+</tbody></table></div>
+<h3>Scelta editoriale</h3>
+<div class="scorri"><table class="tab"><thead><tr><th>Scelta</th><th>Cosa dicono (o non dicono) i lavori</th></tr></thead><tbody>
+<tr><td>Fatti sopra le dichiarazioni</td><td>I lavori mostrano solo che nelle dichiarazioni l&rsquo;effetto del potere è più piccolo</td></tr>
+<tr><td>Dato nuovo come fatto, solo se già pubblicato</td><td>Harcup e O&rsquo;Neill: l&rsquo;esclusività è un valore notizia; nessun lavoro distingue dati pubblicati e anteprime</td></tr>
+<tr><td>Scarto di ciò che è già stato riportato senza fatto nuovo</td><td>Il seguito è un valore notizia (Harcup e O&rsquo;Neill) e non predice la prima pagina (Boukes): per questo i seguiti con un fatto nuovo restano</td></tr>
+<tr><td>Tetto di livello e di numero per l&rsquo;estero</td><td>Appoggio debole: Boukes e Vliegenthart dicono che la prossimità conta meno per la stampa finanziaria, ma è un fattore; nessun peso utilizzabile</td></tr>
+<tr><td>Posti variabili</td><td>Nessun lavoro lo tratta: serve a non riempire il digest quando non c&rsquo;è molto</td></tr>
+</tbody></table></div>
+</section>
+
+<section id="verifica"><h2>5. Verifica dei testi e limiti dell&rsquo;AI</h2>
+<p>Dopo la scrittura, altri passaggi automatici (anch&rsquo;essi con l&rsquo;AI) controllano le frasi generate contro i testi delle fonti e, se trovano errori documentati, li correggono. Lo stesso vale per il titolo, i sommari, la newsletter, il copione del podcast e quello del video.</p>
+<ul>
+<li><b>Non è una garanzia.</b> Il controllo può sbagliare e non blocca l&rsquo;invio: se segnala dei problemi che non riesce a correggere, il digest esce comunque.</li>
+<li><b>Nessuna rilettura umana.</b> Nessuna persona rilegge il digest prima dell&rsquo;invio.</li>
+<li><b>Riassunti, non fonti.</b> I testi riassumono articoli di altre testate; per i dettagli fai riferimento alle fonti originali, linkate in ogni storia.</li>
+</ul>
+</section>
+
+<section id="limiti"><h2>6. Limiti dello studio e passi successivi</h2>
+<p>Le prove sul metodo sono state fatte su 223 candidati del 18 ottobre 2026, senza nuova raccolta, con la stessa funzione usata in produzione.</p>
+<ol>
+<li><b>Nessuna fonte sull&rsquo;Italia.</b> I lavori riguardano la politica tedesca fino al 1995 e notizie economiche olandesi del 2015: danno la <i>direzione</i> dei criteri, non valori da copiare.</li>
+<li><b>Taratura.</b> Nessun lavoro dà i pesi per le notizie economiche italiane. Il riferimento è il giudizio di chi cura il progetto sulle uscite reali; passo successivo: confrontare i livelli con un ordinamento a mano di 20-30 notizie.</li>
+<li><b>Affidabilità dei campi.</b> La misura fatta il 25 settembre (accordo tra due modelli, kappa 0,76) riguarda solo tipo di evento, potere e portata. Novità, conflitto e provenienza non sono ancora stati misurati.</li>
+<li><b>Una sola giornata.</b> I confronti si basano sul 18 ottobre 2026.</li>
+<li><b>Una categoria troppo larga non ordina.</b> In Boukes «influenza e rilevanza», presente nell&rsquo;81% degli articoli, non predice la prima pagina. Lo stesso rischio vale per «Molto importante»: nel metodo adottato è il 11% dei candidati del 18 ottobre 2026.</li>
+<li><b>Soglie da affinare.</b> Il numero minimo e massimo di posti e l&rsquo;elenco degli istituti statistici ammessi nel peso alto (oggi solo ISTAT ed Eurostat) sono da rivedere.</li>
+</ol>
+</section>
+
+<section id="fonti"><h2>7. Fonti e termini d&rsquo;uso</h2>
+<p>Per ogni fonte monitorata abbiamo cercato i termini d&rsquo;uso, le note legali o la licenza dei contenuti. Il nome rimanda alla pagina che li contiene, quando l&rsquo;abbiamo trovata. La ricerca è del 22 ottobre 2026 ed è una sintesi informativa: <b>non è un parere legale</b> e i testi ufficiali possono cambiare. ✅ indica le schede riverificate riaprendo le pagine ufficiali; ⬜ quelle non ancora riverificate. «Parziale» e «non trovato» dicono che la pagina non è stata letta o non esiste, non che l&rsquo;uso sia consentito.</p>
+<div class="scorri"><table class="tab"><thead><tr><th>Fonte</th><th>Verificata</th><th>Esito</th><th>Risultato</th></tr></thead><tbody><tr><td>Altreconomia</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Solo «Tutti i diritti riservati».</td></tr><tr><td><a href="https://www.anima.it/note-legali" rel="noopener">ANIMA Confindustria</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Nelle pagine lette solo privacy e cookie.</td></tr><tr><td><a href="https://www.ansa.it/sito/static/copyright_e_disclaimer.html" rel="noopener">ANSA</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Contenuti riservati, consenso scritto per ogni uso. Vietati accesso automatico, link a pagine interne e framing.</td></tr><tr><td><a href="https://www.bancaditalia.it/footer/copyright/index.html" rel="noopener">Banca d'Italia</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Riproduzione solo con autorizzazione scritta. Open data su dati.gov.it in CC BY 4.0.</td></tr><tr><td><a href="https://www.ecb.europa.eu/services/disclaimer/html/index.en.html" rel="noopener">BCE</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Uso libero citando la fonte, senza alterare le informazioni.</td></tr><tr><td><a href="https://www.confindustria.it/disclaimer" rel="noopener">Centro Studi Confindustria</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Copyright, nessuna condizione di riuso né licenza.</td></tr><tr><td><a href="https://www.tagliacarne.it/note_legali-17/" rel="noopener">Centro Studi Tagliacarne</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Riproduzione solo con autorizzazione scritta.</td></tr><tr><td>Cerved</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Nessuna pagina di termini.</td></tr><tr><td><a href="https://www.corriere.it/data_mining_policy.shtml" rel="noopener">Corriere della Sera</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Riserva TDM; vietati bot, scraping e IA. Il robots.txt blocca i crawler di IA e dichiara ai-train=no, ai-input=no.</td></tr><tr><td><a href="https://www.editorialedomani.it/termini-e-condizioni-generali-qyuvm3q8" rel="noopener">Domani</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Vietate riproduzione anche parziale e lavori derivati. Si oppone all'addestramento di IA.</td></tr><tr><td>EconomiaCircolare.com</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Nessuna pagina di termini.</td></tr><tr><td><a href="https://www.economistgroup.com/terms-of-use" rel="noopener">The Economist</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Solo uso personale non commerciale. Vietati bot, data mining e addestramento di IA.</td></tr><tr><td>EconomyUp</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Nessuna clausola sul riuso.</td></tr><tr><td><a href="https://ec.europa.eu/eurostat/en/help/copyright-notice" rel="noopener">Eurostat</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>CC BY 4.0, riuso anche commerciale con citazione.</td></tr><tr><td>Il Fatto Quotidiano</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Nessuna pagina di termini. Il robots.txt vieta /feed/ a tutti.</td></tr><tr><td>Federacciai</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Termini non trovati (home e privacy non raggiungibili).</td></tr><tr><td><a href="https://www.federmeccanica.it/disclaimer.html" rel="noopener">Federmeccanica</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Solo copyright generico.</td></tr><tr><td><a href="https://help.ft.com/legal-privacy/terms-and-conditions/" rel="noopener">Financial Times</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Vietati scraping, data mining e IA. Riassunti da 30 parole, massimo 10 al giorno, con link.</td></tr><tr><td><a href="https://www.ilfoglio.it/termini-utilizzo" rel="noopener">Il Foglio</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Solo condizioni di vendita, nessuna clausola sul riuso.</td></tr><tr><td><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/" rel="noopener">GSE</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Il footer collega CC BY-NC-SA 3.0 Italia; ambito poco chiaro.</td></tr><tr><td><a href="https://www.theguardian.com/help/terms-of-service" rel="noopener">The Guardian</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Uso solo personale. Vietati scraping, TDM e IA, con riserva art. 4(3). Citazioni fino a 100 parole.</td></tr><tr><td><a href="https://www.inps.it/it/it/dati-e-bilanci/open-data/informazioni/come-si-usano.html" rel="noopener">INPS</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Nessuna pagina di note legali. Open data con licenza per dataset.</td></tr><tr><td><a href="https://www.internazionale.it/about" rel="noopener">Internazionale</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Testi della redazione in CC BY-NC-SA 4.0, solo uso non commerciale.</td></tr><tr><td><a href="https://www.istat.it/it/note-legali" rel="noopener">Istat</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>CC BY 4.0, ma di seconda mano (sito in manutenzione).</td></tr><tr><td><a href="https://www.italiaoggi.it/policy" rel="noopener">Italia Oggi</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Vietato l'uso per finalità professionali. Riserva TDM. Il robots.txt blocca i crawler di IA.</td></tr><tr><td><a href="https://ilmanifesto.it/tdm-disclaimer" rel="noopener">il manifesto</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>CC BY-NC-ND 4.0, riserva TDM, ai-input=no. Ripubblicazione parziale con fonte e link. Vietate le URL con query string.</td></tr><tr><td><a href="https://www.mef.gov.it/note/note_legali.inc" rel="noopener">MEF</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Per fini di lucro serve il permesso scritto. Deep linking vietato.</td></tr><tr><td><a href="https://www.milanofinanza.it/help/norme" rel="noopener">Milano Finanza</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Vietato l'uso per finalità professionali. Riserva TDM. Il robots.txt blocca i crawler di IA.</td></tr><tr><td><a href="https://www.mimit.gov.it/it/note" rel="noopener">MIMIT</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>CC BY 3.0 Italia, riuso libero con citazione.</td></tr><tr><td><a href="https://www.oecd.org/en/about/terms-conditions.html" rel="noopener">OCSE</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Testi dal 1° luglio 2024 in CC BY 4.0, anche uso commerciale con citazione.</td></tr><tr><td><a href="https://www.politico.eu/terms-conditions/" rel="noopener">Politico Europe</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Vietate conservazione sistematica e opere derivate senza permesso. Il robots.txt esclude molti bot di IA.</td></tr><tr><td><a href="https://www.ilpost.it/condizioni-generali/" rel="noopener">Il Post</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Condizioni per gli abbonati: contenuti non distribuibili né elaborabili.</td></tr><tr><td>Prometeia</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Footer con solo «All rights reserved».</td></tr><tr><td>Ref Ricerche</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Solo «Tutti i diritti riservati» senza link.</td></tr><tr><td><a href="https://www.repubblica.it/corporate/tdm/gnn/" rel="noopener">la Repubblica</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Ogni uso vietato senza consenso scritto, riserva TDM. Il robots.txt blocca quasi tutti i crawler di IA.</td></tr><tr><td><a href="https://www.sace.it/note-legali" rel="noopener">SACE</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Copia e riproduzione vietate senza consenso scritto. Anche i link richiedono consenso.</td></tr><tr><td><a href="https://st.ilsole24ore.com/st/tdm-disclaimer/TDM_Disclaimer_ita.html" rel="noopener">Il Sole 24 Ore</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Ogni uso o estrazione, anche automatizzata, vietato senza consenso scritto. Riserva TDM.</td></tr><tr><td><a href="https://www.lastampa.it/corporate/tdm/sae/" rel="noopener">La Stampa</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Come Repubblica: ogni uso vietato senza consenso scritto, riserva TDM.</td></tr><tr><td>Terna</td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>non trovato</td><td>Nessuna pagina di termini.</td></tr><tr><td><a href="https://www.unioncamere.gov.it/note-legali" rel="noopener">Unioncamere</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>trovato</td><td>Copia e diffusione solo con autorizzazione scritta.</td></tr><tr><td><a href="https://www.wallstreetitalia.com/disclaimer/" rel="noopener">Wall Street Italia</a></td><td><span title="Non riverificata sulle pagine ufficiali">⬜</span></td><td>parziale</td><td>Vietati copia e lavori derivati, in forma generica.</td></tr><tr><td><a href="https://www.dowjones.com/terms-of-use/" rel="noopener">Wall Street Journal</a></td><td><span title="Riverificata sulle pagine ufficiali">✅</span></td><td>trovato</td><td>Uso personale e non commerciale. Vietati scraping, TDM e IA, con riserva TDM al punto 9.4.5.</td></tr></tbody></table></div>
+</section>
+
+<section id="contatti"><h2>8. Contatti</h2>
+<p>Nessuna persona rilegge un digest prima dell&rsquo;invio. Se trovi un errore, hai un dubbio o vuoi segnalarci qualcosa, scrivi a <a href="mailto:nelson@ondata.it">nelson@ondata.it</a>: ti ringraziamo.</p>
+</section>
+</div>
+<section class="iscrizione" id="iscriviti" aria-labelledby="iscriviti-titolo">
+  <h2 id="iscriviti-titolo">Ricevi EcoDaily ogni mattina</h2>
+  <p>Le notizie economiche del giorno, con i link alle fonti, nella tua casella di posta.</p>
+  <form action="https://buttondown.com/api/emails/embed-subscribe/ecodaily" method="post" target="_blank">
+    <label for="email-iscrizione">Il tuo indirizzo email</label>
+    <input id="email-iscrizione" type="email" name="email" required autocomplete="email" placeholder="nome@esempio.it">
+    <button type="submit">Iscriviti</button>
+  </form>
+  <p class="nota">Ti scriviamo solo per mandarti il digest. Puoi disiscriverti in ogni momento dal link in fondo a ogni email. <a href="../info/#privacy">Come trattiamo l&rsquo;indirizzo</a>.</p>
+  <p class="social">Preferisci i video? Seguici su <a href="https://www.instagram.com/ecodaily.it/" rel="noopener">Instagram @ecodaily.it</a>. Preferisci ascoltare? Il podcast è su <a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener">Spotify</a>.</p>
+</section>
+</main>
+<footer class="piede"><div class="piede-riga">
+  <a class="logo" href="../">Eco<span>Daily</span></a>
+  <p>EcoDaily non è una testata giornalistica. È un progetto sperimentale di automazione tramite workflow che sfruttano l&rsquo;intelligenza artificiale, ed è curato da Andrea Nelson Mauro. Contattalo via mail per qualsiasi curiosità o necessità: <a href="mailto:nelson@ondata.it">nelson@ondata.it</a>. Grazie! :-)</p>
+  <p>I testi sono scritti dall&rsquo;AI a partire da articoli di altre testate, linkate in ogni storia, e non sono riletti da una persona prima della pubblicazione.</p>
+  <nav aria-label="Piede"><a href="../metodologia/">Metodologia</a><a href="../info/">Informazioni e privacy</a><a href="https://buttondown.com/ecodaily/archive/" rel="noopener">Newsletter</a><a href="https://www.instagram.com/ecodaily.it/" rel="noopener">Instagram</a><a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener">Spotify</a><a href="https://github.com/nelsonmau/ecodaily" rel="noopener">GitHub</a><a href="../feed.xml">RSS</a></nav>
+</div></footer>
+</body>
+</html>
