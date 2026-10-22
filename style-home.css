@@ -14,7 +14,31 @@ a{color:#fff}
 .audio{width:100%;margin-top:34px;padding:16px;border:1px solid var(--linea);border-radius:14px;background:rgba(11,22,38,.55)}
 .audio-titolo{margin:0 0 10px;font-size:14px;font-weight:700;color:var(--tenue)}
 .audio audio{width:100%;display:block}
-.tessere{list-style:none;margin:34px 0 0;padding:0;width:100%;display:grid;grid-template-columns:1fr;gap:14px}
+.audio.pl-attivo audio{display:none}
+.pl{display:flex;align-items:center;gap:14px}
+.pl[hidden]{display:none}
+.pl-play{flex:none;width:52px;height:52px;border-radius:50%;border:0;background:var(--oro);color:var(--bg);display:grid;place-items:center;cursor:pointer;padding:0}
+.pl-play:hover{filter:brightness(1.08)}
+.pl-play .i-pausa{display:none}
+.in-riproduzione .pl-play .i-play{display:none}
+.in-riproduzione .pl-play .i-pausa{display:block}
+.pl-barra{--p:0%;flex:1;min-width:0;height:24px;margin:0;background:transparent;-webkit-appearance:none;appearance:none;cursor:pointer}
+.pl-barra::-webkit-slider-runnable-track{height:6px;border-radius:3px;background:linear-gradient(to right,var(--oro) var(--p),var(--linea) var(--p))}
+.pl-barra::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:16px;height:16px;margin-top:-5px;border-radius:50%;border:0;background:#fff}
+.pl-barra::-moz-range-track{height:6px;border-radius:3px;background:var(--linea)}
+.pl-barra::-moz-range-progress{height:6px;border-radius:3px;background:var(--oro)}
+.pl-barra::-moz-range-thumb{width:16px;height:16px;border-radius:50%;border:0;background:#fff}
+.pl-tempo{flex:none;min-width:5.6em;text-align:right;font-size:14px;font-weight:700;color:var(--tenue);font-variant-numeric:tabular-nums}
+.iscrizione-home{width:100%;margin-top:34px;padding:22px 18px;border:1px solid var(--oro);border-radius:14px;background:rgba(11,22,38,.55)}
+.iscrizione-home h2{margin:0 0 14px;font-size:20px;font-weight:800;line-height:1.3}
+.iscrizione-home form{display:flex;flex-direction:column;gap:10px}
+.iscrizione-home label{position:absolute;left:-9999px}
+.iscrizione-home input[type=email]{width:100%;padding:13px 14px;font:inherit;font-size:17px;color:#fff;background:var(--bg);border:1px solid var(--linea);border-radius:10px}
+.iscrizione-home input[type=email]::placeholder{color:var(--tenue)}
+.iscrizione-home button{padding:13px 22px;font:inherit;font-weight:800;font-size:17px;color:var(--bg);background:var(--oro);border:0;border-radius:10px;cursor:pointer}
+.iscrizione-home button:hover{filter:brightness(1.08)}
+.iscrizione-home .nota{margin:12px 0 0;font-size:14px;color:var(--tenue)}
+.tessere{list-style:none;margin:20px 0 0;padding:0;width:100%;display:grid;grid-template-columns:1fr;gap:14px}
 .tessere a{display:flex;flex-direction:column;align-items:center;gap:4px;height:100%;padding:20px 14px;border:1px solid var(--linea);border-radius:14px;background:rgba(11,22,38,.55);text-decoration:none;color:#fff}
 .tessere a:hover,.tessere a:focus-visible{border-color:var(--oro);background:rgba(20,41,74,.9)}
 .tessere svg{color:var(--oro);margin-bottom:6px}
@@ -29,6 +53,8 @@ a{color:#fff}
   .portale{max-width:860px;padding-top:88px}
   .frase{font-size:24px}
   .audio{max-width:560px}
-  .tessere{grid-template-columns:repeat(3,1fr)}
+  .tessere{grid-template-columns:repeat(2,1fr)}
+  .iscrizione-home form{flex-direction:row}
+  .iscrizione-home input[type=email]{flex:1}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}

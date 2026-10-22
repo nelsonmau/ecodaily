@@ -16,19 +16,32 @@
 <meta property="og:description" content="Le notizie economiche del giorno, sintetizzate con l'intelligenza artificiale.">
 <meta property="og:url" content="https://nelsonmau.github.io/ecodaily/">
 <meta property="og:locale" content="it_IT">
-<link rel="stylesheet" href="style-home.css?v=027aadc8">
+<link rel="stylesheet" href="style-home.css?v=735d0a81">
 </head>
 <body>
 <main class="portale">
   <h1 class="logo-grande" aria-label="EcoDaily">Eco<span>Daily</span></h1>
   <p class="frase">Le notizie economiche del giorno, sintetizzate con l&rsquo;intelligenza artificiale.</p>
-  <div class="audio">
+  <div class="audio" data-player>
     <p class="audio-titolo">L&rsquo;ultimo audio · 22 ottobre 2026</p>
-    <audio controls preload="none" src="podcast/2026-10-22.mp3" aria-label="Ultimo audio di EcoDaily, 22 ottobre 2026"></audio>
+    <audio controls preload="metadata" src="podcast/2026-10-22.mp3" aria-label="Ultimo audio di EcoDaily, 22 ottobre 2026"></audio>
+    <div class="pl" hidden>
+      <button type="button" class="pl-play" aria-label="Riproduci"><svg class="i-play" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg><svg class="i-pausa" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z" fill="currentColor"/></svg></button>
+      <input class="pl-barra" type="range" min="0" max="0" step="1" value="0" aria-label="Avanzamento dell&rsquo;audio">
+      <span class="pl-tempo" aria-live="off">0:00</span>
+    </div>
   </div>
+  <section class="iscrizione-home" aria-labelledby="iscriviti-titolo">
+    <h2 id="iscriviti-titolo">Ricevi EcoDaily ogni mattina</h2>
+    <form action="https://buttondown.com/api/emails/embed-subscribe/ecodaily" method="post" target="_blank">
+      <label for="email-iscrizione">Il tuo indirizzo email</label>
+      <input id="email-iscrizione" type="email" name="email" required autocomplete="email" placeholder="nome@esempio.it">
+      <button type="submit">Iscriviti</button>
+    </form>
+    <p class="nota">Ti scriviamo solo per mandarti il digest. Puoi disiscriverti in ogni momento. <a href="news/info/#privacy">Come trattiamo l&rsquo;indirizzo</a>.</p>
+  </section>
   <ul class="tessere">
     <li><a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14v-2a8 8 0 0 1 16 0v2"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg><span class="t-titolo">Ascolta il podcast</span><span class="t-nota">Su Spotify</span></a></li>
-    <li><a href="news/#iscriviti"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.5 7 8.5 6 8.5-6"/></svg><span class="t-titolo">Iscriviti alla newsletter</span><span class="t-nota">Ogni mattina nella tua posta</span></a></li>
     <li><a href="https://www.instagram.com/ecodaily.it/" rel="noopener"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"/><path d="m10 8.5 5 3.5-5 3.5z"/></svg><span class="t-titolo">Guarda i reel</span><span class="t-nota">Su Instagram @ecodaily.it</span></a></li>
   </ul>
   <p class="leggi"><a href="news/">Leggi le notizie →</a></p>
@@ -36,5 +49,16 @@
 <footer class="portale-piede">
   <p>Progetto di ricerca sperimentale, <a href="news/metodologia/">scopri di più</a>.</p>
 </footer>
+<script>(function(){var r=document.querySelector("[data-player]");if(!r)return;var a=r.querySelector("audio"),b=r.querySelector(".pl-play"),s=r.querySelector(".pl-barra"),t=r.querySelector(".pl-tempo"),u=r.querySelector(".pl");
+function f(x){if(!isFinite(x))return"0:00";var m=Math.floor(x/60),c=Math.floor(x%60);return m+":"+(c<10?"0":"")+c}
+function g(){var d=a.duration,k=isFinite(d)&&d>0;s.max=k?Math.floor(d):0;s.value=Math.floor(a.currentTime);s.style.setProperty("--p",(k?100*a.currentTime/d:0)+"%");t.textContent=f(a.currentTime)+" / "+f(d)}
+a.removeAttribute("controls");u.hidden=false;r.classList.add("pl-attivo");
+b.addEventListener("click",function(){if(a.paused){a.play()}else{a.pause()}});
+a.addEventListener("play",function(){r.classList.add("in-riproduzione");b.setAttribute("aria-label","Pausa")});
+a.addEventListener("pause",function(){r.classList.remove("in-riproduzione");b.setAttribute("aria-label","Riproduci")});
+a.addEventListener("ended",function(){r.classList.remove("in-riproduzione");b.setAttribute("aria-label","Riproduci")});
+["timeupdate","loadedmetadata","durationchange"].forEach(function(e){a.addEventListener(e,g)});
+s.addEventListener("input",function(){a.currentTime=Number(s.value);g()});
+g()})();</script>
 </body>
 </html>
