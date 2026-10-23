@@ -16,6 +16,18 @@
     <itunes:owner><itunes:name>Andrea Nelson Mauro</itunes:name><itunes:email>nelson@ondata.it</itunes:email></itunes:owner>
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <item>
+      <title>Fiducia Eurozona, Btp Valore e Manovra</title>
+      <description>Le notizie economiche del giorno. Temi: Fiducia dei consumatori e tensioni sui mercati; Politiche economiche e Manovra 2027; Regolamentazione dell'intelligenza artificiale e lavoro; Decreto aiuti e misure urgenti del governo; Tensioni di piazza in Francia ed esteri. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-23/</description>
+      <itunes:summary>Le notizie economiche del giorno. Temi: Fiducia dei consumatori e tensioni sui mercati; Politiche economiche e Manovra 2027; Regolamentazione dell'intelligenza artificiale e lavoro; Decreto aiuti e misure urgenti del governo; Tensioni di piazza in Francia ed esteri. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-23/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-23/</link>
+      <guid isPermaLink="false">ecodaily-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-10-23.mp3" length="4692053" type="audio/mpeg"/>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Deficit italiano, mercati volatili, BTP Valore, sostegno giovani e vertice NATO</title>
       <description>Le notizie economiche del giorno. Temi: Conti pubblici e collocamento titoli di Stato; Misure fiscali e lavoro in Italia; Mercati azionari e geopolitica energetica; Normative comunitarie, fondi e indagini antitrust. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-22/</description>
       <itunes:summary>Le notizie economiche del giorno. Temi: Conti pubblici e collocamento titoli di Stato; Misure fiscali e lavoro in Italia; Mercati azionari e geopolitica energetica; Normative comunitarie, fondi e indagini antitrust. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-10-22/</itunes:summary>
