@@ -71,8 +71,8 @@
 <li><b>Classificazione.</b> Un modello di intelligenza artificiale (al momento della famiglia Gemini, con un ripiego su altri modelli con piano gratuito) legge ogni notizia e risponde a domande chiuse: di che evento si tratta, chi agisce, quanto pesa, che ricaduta ha, se è davvero nuova. Ogni risposta ha una motivazione scritta.</li>
 <li><b>Selezione.</b> Una tabella di regole dichiarate, senza AI, trasforma le risposte in un livello di importanza. Entrano le notizie più importanti, in ordine (<a href="#scelta">come, nella sezione 2</a>).</li>
 <li><b>Scrittura.</b> Titolo e introduzione sono scritti dall&rsquo;AI solo a partire dai materiali selezionati, con un link alla fonte per ogni tema. Il ricapitolo del lunedì riprende i materiali dei digest della settimana.</li>
-<li><b>Verifica.</b> Prima dell&rsquo;invio altri passaggi automatici controllano i testi (<a href="#verifica">sezione 5</a>).</li>
-<li><b>Pubblicazione.</b> Il digest esce come newsletter (<a href="https://buttondown.com/ecodaily/archive/" rel="noopener">archivio</a>), sul sito, come podcast con voce sintetica (<a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener">Spotify</a>) e come video breve (<a href="https://www.instagram.com/ecodaily.it/" rel="noopener">Instagram</a>). Il copione di podcast e video è generato e verificato come il testo.</li>
+<li><b>Verifica.</b> Prima dell&rsquo;invio altri passaggi automatici controllano i testi e, per il podcast, anche il file audio (<a href="#verifica">sezione 5</a>, con l&rsquo;elenco di cosa blocca un&rsquo;uscita e cosa no).</li>
+<li><b>Pubblicazione.</b> Il digest esce come newsletter (<a href="https://buttondown.com/ecodaily/archive/" rel="noopener">archivio</a>), sul sito, come podcast con voce sintetica (<a href="https://open.spotify.com/show/54WXWxZlqYqVRdzdLxOqLi" rel="noopener">Spotify</a>) e come video breve (<a href="https://www.instagram.com/ecodaily.it/" rel="noopener">Instagram</a>). Il copione di podcast e video è generato e controllato con verifiche proprie (<a href="#verifica">sezione 5</a>).</li>
 </ol>
 </section>
 
@@ -148,10 +148,16 @@
 </section>
 
 <section id="verifica"><h2>5. Verifica dei testi e limiti dell&rsquo;AI</h2>
-<p>Dopo la scrittura, altri passaggi automatici (anch&rsquo;essi con l&rsquo;AI) controllano le frasi generate contro i testi delle fonti e, se trovano errori documentati, li correggono. Lo stesso vale per il titolo, i sommari, la newsletter, il copione del podcast e quello del video.</p>
+<p>Prima dell&rsquo;invio ogni uscita passa da controlli automatici, fatti in parte da un programma e in parte da un&rsquo;AI. Ecco le fasi nell&rsquo;ordine in cui avvengono e cosa succede quando un controllo non passa.</p>
+<p><b>Fase 1, il digest scritto.</b> Il programma controlla titolo, lunghezza, numero di temi e link. L&rsquo;AI controlla fatti, attribuzioni, stile e pertinenza confrontando il testo con le fonti. Se trova errori gravi, documentati con un estratto della fonte, il programma prova una correzione puntuale. Questi controlli non bloccano l&rsquo;invio: se restano problemi l&rsquo;edizione esce comunque, segnata «con avvisi» o «da rivedere» in un rapporto interno.</p>
+<p><b>Fase 2, il copione del podcast.</b> Il programma controlla numeri, fonti e lunghezza del dialogo a due voci, e l&rsquo;AI lo confronta con l&rsquo;introduzione. Se dopo la correzione resta un errore, il dialogo viene scartato e l&rsquo;audio legge l&rsquo;introduzione a voce singola.</p>
+<p><b>Fase 3, il file audio del podcast.</b> Il file è trascritto da un modello e confrontato con il copione. Se non corrisponde viene rigenerato una volta; se sbaglia ancora esce con un avviso nei rapporti interni.</p>
+<p><b>Fase 4, il video.</b> Il programma verifica che numeri e cautele del copione siano nella fonte, l&rsquo;AI controlla la coerenza di ogni affermazione, e l&rsquo;audio è trascritto e confrontato col copione. Il copione può essere riscritto fino a due volte. Se i controlli non passano, il video è «bloccato»: non viene pubblicato su Instagram, ma resta allegato all&rsquo;email.</p>
+<p><b>Fase 5, prima dell&rsquo;invio.</b> L&rsquo;unico controllo che ferma un&rsquo;uscita è la validazione dell&rsquo;HTML della newsletter: se non passa, l&rsquo;edizione non parte. Gli altri cancelli tolgono soltanto una parte, per esempio il video troppo pesante per l&rsquo;email o il Reel su Instagram.</p>
+<p><b>Limiti.</b></p>
 <ul>
-<li><b>Non è una garanzia.</b> Il controllo può sbagliare e non blocca l&rsquo;invio: se segnala dei problemi che non riesce a correggere, il digest esce comunque.</li>
-<li><b>Nessuna rilettura umana.</b> Nessuna persona rilegge il digest prima dell&rsquo;invio.</li>
+<li><b>Non è una garanzia.</b> I controlli possono sbagliare e spesso è un&rsquo;AI a controllare un testo scritto da un&rsquo;AI.</li>
+<li><b>Nessuna rilettura umana.</b> Nessuna persona rilegge l&rsquo;edizione prima dell&rsquo;invio.</li>
 <li><b>Riassunti, non fonti.</b> I testi riassumono articoli di altre testate; per i dettagli fai riferimento alle fonti originali, linkate in ogni storia.</li>
 </ul>
 </section>
