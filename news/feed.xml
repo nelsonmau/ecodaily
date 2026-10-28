@@ -6,6 +6,34 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Credito e mercati finanziari</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-28/credito-e-mercati-finanziari/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-28/credito-e-mercati-finanziari/</guid>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 GMT</pubDate>
+      <description>La Banca centrale europea ha certificato un nuovo irrigidimento dei criteri di concessione dei prestiti nell'Eurozona durante il terzo trimestre del 2026, spingendo al ribasso la domanda in tutti i segmenti, come riporta La Stampa.</description>
+    </item>
+    <item>
+      <title>Finanza pubblica e manovra</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-28/finanza-pubblica-e-manovra/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-28/finanza-pubblica-e-manovra/</guid>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Il governo italiano si appresta a varare una legge di bilancio per il 2027 da 23,5 miliardi di euro, comprensiva di tagli fiscali e aumenti di spesa, conforme ai parametri dell'Unione Europea, come evidenziato dal Financial Times.</description>
+    </item>
+    <item>
+      <title>Lavoro e vertenze industriali</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-28/lavoro-e-vertenze-industriali/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-28/lavoro-e-vertenze-industriali/</guid>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Il Ministero dei Trasporti ha emesso un'ordinanza di precettazione per lo sciopero generale proclamato dall'Usb nel settore dei trasporti per venerdì 30 ottobre, disponendo il differimento dello stop per motivi legati alla commemorazione dei defunti;</description>
+    </item>
+    <item>
+      <title>Tecnologia e mercati</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-28/tecnologia-e-mercati/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-28/tecnologia-e-mercati/</guid>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 GMT</pubDate>
+      <description>La società Anthropic si prepara a sbarcare al Nasdaq a novembre con un'offerta pubblica iniziale stimata a 100 miliardi di dollari, mentre Meta punta a raccogliere 95 miliardi di dollari per lo sviluppo di infrastrutture legate all'intelligenza artificiale, come riporta il Corriere della Sera.</description>
+    </item>
+    <item>
       <title>Automotive e crisi industriale</title>
       <link>https://nelsonmau.github.io/ecodaily/news/2026-10-27/automotive-e-crisi-industriale/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-27/automotive-e-crisi-industriale/</guid>
@@ -382,27 +410,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-14/commercio-ue-e-settore-auto/</guid>
       <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
       <description>L'Unione europea ha raggiunto un accordo preliminare con Pechino per limitare le importazioni di auto ibride cinesi a 350.000 veicoli all'anno, come spiegato da Politico Europe.</description>
-    </item>
-    <item>
-      <title>Caro energia e competitività industriale</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-13/caro-energia-e-competitivita-industriale/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-13/caro-energia-e-competitivita-industriale/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 GMT</pubDate>
-      <description>L’aumento dei costi energetici rappresenta una delle principali criticità per l’economia europea e italiana, alimentando l’inflazione e pesando sulla spesa pubblica.</description>
-    </item>
-    <item>
-      <title>Accordo UE-Cina sulle auto ibride</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-13/accordo-ue-cina-sulle-auto-ibride/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-13/accordo-ue-cina-sulle-auto-ibride/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 GMT</pubDate>
-      <description>La Commissione europea ha siglato un’intesa con Pechino per limitare le importazioni di veicoli ibridi cinesi nel Vecchio Continente a partire dal 2027. Come riporta Il Sole 24 Ore, l'accordo prevede un tetto annuale di 350.000 unità, riducendo la pressione competitiva sui marchi europei.</description>
-    </item>
-    <item>
-      <title>Finanza pubblica e manovra in Italia</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-13/finanza-pubblica-e-manovra-in-italia/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-13/finanza-pubblica-e-manovra-in-italia/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Le audizioni sul Documento programmatico di finanza pubblica hanno evidenziato i vincoli di bilancio per il prossimo anno. Come riporta Il Fatto Quotidiano, l'Istat ha segnalato l'arresto del recupero del potere d'acquisto delle retribuzioni a causa della ripresa dell'inflazione.</description>
     </item>
   </channel>
 </rss>
