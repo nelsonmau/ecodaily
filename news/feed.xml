@@ -6,6 +6,27 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Economia e finanza in Europa</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-01/economia-e-finanza-in-europa/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-01/economia-e-finanza-in-europa/</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Nel terzo trimestre la crescita economica dell'Eurozona si è rivelata superiore alle attese, sebbene la Francia abbia registrato dati inferiori alle previsioni secondo i dati riportati dal Financial Times.</description>
+    </item>
+    <item>
+      <title>Inflazione e manovra in Italia</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-01/inflazione-e-manovra-in-italia/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-01/inflazione-e-manovra-in-italia/</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 GMT</pubDate>
+      <description>A ottobre in Italia l'inflazione ha raggiunto il 5,4%, segnando il valore più alto degli ultimi tre anni a causa della crisi energetica, come rilevato dall'Il Post.</description>
+    </item>
+    <item>
+      <title>Settore bancario e mercati tecnologici</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-01/settore-bancario-e-mercati-tecnologici/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-01/settore-bancario-e-mercati-tecnologici/</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Gli azionisti di MPS hanno bocciato il piano dell'amministratore delegato Luigi Lovaglio per ostacolare l'acquisizione da parte di Intesa Sanpaolo, aprendo la strada all'operazione come spiega Il Post.</description>
+    </item>
+    <item>
       <title>Politica monetaria e debito sovrano</title>
       <link>https://nelsonmau.github.io/ecodaily/news/2026-10-29/politica-monetaria-e-debito-sovrano/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-29/politica-monetaria-e-debito-sovrano/</guid>
@@ -396,27 +417,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-16/politica-commerciale-europea-e-cina/</guid>
       <pubDate>Fri, 16 Oct 2026 07:00:00 GMT</pubDate>
       <description>L'Unione europea prevede di dare priorità ai settori dei prodotti chimici e dei macchinari industriali nelle misure per proteggere la concorrenza europea contro l'aumento delle importazioni dalla Cina, secondo quanto riportato da Politico Europe.</description>
-    </item>
-    <item>
-      <title>Negoziati sul bilancio dell'Unione Europea</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-15/negoziati-sul-bilancio-dell-unione-europea/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-15/negoziati-sul-bilancio-dell-unione-europea/</guid>
-      <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
-      <description>In vista del vertice dei leader a Bruxelles, i governi europei hanno ridimensionato l'impegno a chiudere l'accordo sul bilancio pluriennale 2028-2034 entro la fine dell'anno, preferendo una formulazione che richiama a un'intesa tempestiva, secondo quanto riferito da Politico Europe.</description>
-    </item>
-    <item>
-      <title>Conti pubblici e crescita economica in Italia</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-15/conti-pubblici-e-crescita-economica-in-italia/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-15/conti-pubblici-e-crescita-economica-in-italia/</guid>
-      <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Il Centro Studi Confindustria ha rivisto al rialzo le stime di crescita del Pil italiano per il 2026, portandole all'1% grazie alla tenuta della prima metà dell'anno e al contributo del Pnrr, mentre prevede un rallentamento allo 0,6% per il 2027 con un rapporto deficit-Pil al 2,9% nell'anno in…</description>
-    </item>
-    <item>
-      <title>Energia, tariffe e mercati internazionali</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-15/energia-tariffe-e-mercati-internazionali/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-15/energia-tariffe-e-mercati-internazionali/</guid>
-      <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
-      <description>La Commissione europea ha registrato progressi nei colloqui con Roma sul decreto destinato ad attenuare l'impatto dei costi del gas sui prezzi dell'energia elettrica, all'interno di un quadro di flessibilità fiscale pluriennale stimato in 14 miliardi, come riportato dal Corriere della Sera.</description>
     </item>
   </channel>
 </rss>
