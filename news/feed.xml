@@ -6,6 +6,41 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Manovra economica e misure fiscali</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-03/manovra-economica-e-misure-fiscali/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-03/manovra-economica-e-misure-fiscali/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Il governo ha delineato i dettagli della legge di bilancio 2027, che vale circa 26 miliardi di euro ed è composta da 157 articoli, come illustrato da ANSA.</description>
+    </item>
+    <item>
+      <title>Andamento del PIL italiano</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-03/andamento-del-pil-italiano/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-03/andamento-del-pil-italiano/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Nel terzo trimestre del 2026 il prodotto interno lordo italiano è rimasto invariato rispetto al trimestre precedente, registrando un risultato inferiore alle attese degli analisti che stimavano una crescita tra lo 0,1 e lo 0,2 per cento, secondo quanto riportato da Il Post.</description>
+    </item>
+    <item>
+      <title>Dimissioni anticipate alla BCE</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-03/dimissioni-anticipate-alla-bce/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-03/dimissioni-anticipate-alla-bce/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Christine Lagarde lascerà la presidenza della Banca centrale europea il 7 febbraio 2027, con circa nove mesi di anticipo rispetto alla scadenza naturale del suo mandato prevista per ottobre 2027, come riportato da Il Fatto Quotidiano.</description>
+    </item>
+    <item>
+      <title>Mercati finanziari e borse</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-03/mercati-finanziari-e-borse/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-03/mercati-finanziari-e-borse/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Piazza Affari ha chiuso la seduta in rialzo guidando le Borse europee, sostenuta dalle aspettative di una ripresa dei negoziati diplomatici tra Iran e Stati Uniti, come descritto da ANSA.</description>
+    </item>
+    <item>
+      <title>Accordi internazionali tra UE e Canada</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-03/accordi-internazionali-tra-ue-e-canada/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-03/accordi-internazionali-tra-ue-e-canada/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 GMT</pubDate>
+      <description>L'Unione Europea e il Canada hanno raggiunto un accordo quadro per incrementare gli investimenti europei nelle risorse minerarie canadesi e potenziare il commercio di materie prime e di energia pulita, come reso noto da Politico Europe.</description>
+    </item>
+    <item>
       <title>La Manovra 2027 e le misure fiscali</title>
       <link>https://nelsonmau.github.io/ecodaily/news/2026-11-02-settimanale/la-manovra-2027-e-le-misure-fiscali/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-02-settimanale/la-manovra-2027-e-le-misure-fiscali/</guid>
@@ -410,34 +445,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-18/credito-bancario-e-mercati-finanziari/</guid>
       <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
       <description>Il rapporto dell'Abi relativo a settembre 2026 evidenzia un'accelerazione della crescita dei prestiti bancari a famiglie e imprese, saliti del 3,7% su base annua rispetto al 3,5% registrato ad agosto, come riporta ANSA.</description>
-    </item>
-    <item>
-      <title>Accordo franco-tedesco sul settore automobilistico</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-17/accordo-franco-tedesco-sul-settore-automobilistico/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-17/accordo-franco-tedesco-sul-settore-automobilistico/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Francia e Germania hanno raggiunto un'intesa volta a ridefinire gli standard climatici e le regole commerciali europee per il comparto automotive, come riportano Il Fatto Quotidiano e Politico Europe.</description>
-    </item>
-    <item>
-      <title>Crescita economica e occupazione in Italia</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-17/crescita-economica-e-occupazione-in-italia/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-17/crescita-economica-e-occupazione-in-italia/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
-      <description>La Banca d'Italia ha alzato le stime di crescita del Prodotto interno lordo nazionale per il 2026 allo 0,9%, rivedendole al rialzo di 0,4 punti percentuali rispetto alle valutazioni di giugno, come riferisce La Stampa.</description>
-    </item>
-    <item>
-      <title>Negoziati sul bilancio pluriennale dell'Unione Europea</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-17/negoziati-sul-bilancio-pluriennale-dell-unione-europea/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-17/negoziati-sul-bilancio-pluriennale-dell-unione-europea/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Il presidente del Consiglio europeo António Costa ha convocato un vertice straordinario per il 26 novembre con l'obiettivo di accelerare l'intesa sul Quadro finanziario pluriennale entro la fine dell'anno, evitando rinvii al 2027 a causa delle tornate elettorali, come ricostruisce Politico Europe.</description>
-    </item>
-    <item>
-      <title>Rappresentanza sindacale e trattative salariali</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-10-17/rappresentanza-sindacale-e-trattative-salariali/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-10-17/rappresentanza-sindacale-e-trattative-salariali/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Il tavolo tra tredici sigle datoriali e i sindacati Cgil, Cisl e Uil ha registrato un'intesa di massima sulle regole di rappresentanza finalizzate all'individuazione dei contratti di riferimento di settore e del «salario giusto», mentre permangono distanze sui meccanismi di adeguamento salariale…</description>
     </item>
   </channel>
 </rss>
