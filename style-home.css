@@ -53,7 +53,7 @@ a{color:#fff}
   .portale{max-width:860px;padding-top:88px}
   .frase{font-size:24px}
   .audio{max-width:560px}
-  .tessere{grid-template-columns:repeat(2,1fr)}
+  .tessere{grid-template-columns:repeat(3,1fr)}
   .iscrizione-home form{flex-direction:row}
   .iscrizione-home input[type=email]{flex:1}
 }
