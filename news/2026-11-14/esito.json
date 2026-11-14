@@ -1,0 +1,122 @@
+{
+  "data": "2026-11-14",
+  "tipo": "quotidiano",
+  "contenuti": {
+    "esito": "da_rivedere",
+    "controlli": [
+      {
+        "id": "D1",
+        "nome": "Lunghezza del titolo",
+        "esito": "violazione"
+      },
+      {
+        "id": "D2",
+        "nome": "Lunghezza dell'introduzione",
+        "esito": "ok"
+      },
+      {
+        "id": "D3",
+        "nome": "Numero di temi",
+        "esito": "ok"
+      },
+      {
+        "id": "D4",
+        "nome": "Voci 'In breve'",
+        "esito": "ok"
+      },
+      {
+        "id": "D5",
+        "nome": "Paragrafi senza link",
+        "esito": "ok"
+      },
+      {
+        "id": "D6",
+        "nome": "Link non validi",
+        "esito": "ok"
+      },
+      {
+        "id": "D7",
+        "nome": "Materiali non citati",
+        "esito": "informativo"
+      },
+      {
+        "id": "R1",
+        "nome": "Fedeltà ai fatti",
+        "esito": "ok"
+      },
+      {
+        "id": "R2",
+        "nome": "Attribuzione",
+        "esito": "ok"
+      },
+      {
+        "id": "R3",
+        "nome": "Stile",
+        "esito": "ok"
+      },
+      {
+        "id": "R4",
+        "nome": "Lingua",
+        "esito": "ok"
+      },
+      {
+        "id": "R5",
+        "nome": "Temi coerenti",
+        "esito": "ok"
+      },
+      {
+        "id": "R6",
+        "nome": "Titolo",
+        "esito": "violazione"
+      },
+      {
+        "id": "R7",
+        "nome": "Pertinenza della selezione",
+        "esito": "ok"
+      },
+      {
+        "id": "R8",
+        "nome": "Trasparenza sui limiti",
+        "esito": "ok"
+      },
+      {
+        "id": "R9",
+        "nome": "Copertura",
+        "esito": "ok"
+      },
+      {
+        "id": "R10",
+        "nome": "Impaginazione HTML",
+        "esito": "ok"
+      }
+    ]
+  },
+  "audio": {
+    "esito": "dialogo_ok"
+  },
+  "video": {
+    "esito": "bloccato",
+    "controlli": [
+      {
+        "id": "V1",
+        "nome": "Numeri nella fonte",
+        "esito": "ok"
+      },
+      {
+        "id": "V2",
+        "nome": "Coerenza con la fonte",
+        "esito": "ok"
+      },
+      {
+        "id": "V4",
+        "nome": "Cautele della fonte",
+        "esito": "violazione"
+      },
+      {
+        "id": "V6",
+        "nome": "Numeri detti e numeri a schermo",
+        "esito": "ok"
+      }
+    ]
+  }
+}
