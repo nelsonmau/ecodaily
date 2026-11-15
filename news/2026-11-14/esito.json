@@ -95,17 +95,17 @@
     "esito": "dialogo_ok"
   },
   "video": {
-    "esito": "bloccato",
+    "esito": "scaduto",
     "controlli": [
       {
         "id": "V1",
         "nome": "Numeri nella fonte",
-        "esito": "ok"
+        "esito": "violazione"
       },
       {
         "id": "V2",
         "nome": "Coerenza con la fonte",
-        "esito": "ok"
+        "esito": "avviso"
       },
       {
         "id": "V4",
