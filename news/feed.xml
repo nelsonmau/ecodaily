@@ -6,6 +6,41 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Risiko bancario</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/risiko-bancario/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/risiko-bancario/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+      <description>All'inizio della settimana la Consob ha approvato l'offerta pubblica di acquisto e scambio da 31,8 miliardi di euro lanciata da Intesa Sanpaolo su Monte dei Paschi di Siena, fissando l'avvio delle adesioni per il 24 novembre Wall Street Italia.</description>
+    </item>
+    <item>
+      <title>Manovra di bilancio</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/manovra-di-bilancio/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/manovra-di-bilancio/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Le audizioni parlamentari sulla manovra hanno evidenziato le critiche della Corte dei conti e dell'Istat, che ha calcolato una riduzione media di 510 euro lordi all'anno per 3,5 milioni di pensionati a causa della rivista rivalutazione La Stampa.</description>
+    </item>
+    <item>
+      <title>Mercato energetico e industria</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/mercato-energetico-e-industria/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/mercato-energetico-e-industria/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+      <description>A inizio settimana l'impatto dei rincari energetici ha spinto le acciaierie italiane a sospendere le attività produttive Corriere della Sera. Il governo ha risposto approvando il decreto Bollette Corriere della Sera, anche se multiutility come A2A hanno segnalato possibili impatti negativi sugli…</description>
+    </item>
+    <item>
+      <title>Negoziati di pace sulla guerra in Ucraina</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/negoziati-di-pace-sulla-guerra-in-ucraina/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/negoziati-di-pace-sulla-guerra-in-ucraina/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+      <description>La diplomazia internazionale ha registrato incontri ad Abu Dhabi tra delegazioni di Russia e Ucraina con la mediazione degli inviati statunitensi Internazionale. Nel corso della settimana è stato concordato l'allargamento dei colloqui ai paesi europei The Guardian.</description>
+    </item>
+    <item>
+      <title>Sviluppi nel settore tecnologico</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/sviluppi-nel-settore-tecnologico/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-16-settimanale/sviluppi-nel-settore-tecnologico/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Il colosso dei semiconduttori Nvidia ha subito forti flessioni in borsa a seguito delle dimissioni dell'amministratore delegato Jensen Huang Il Post ed è finito sotto inchiesta per una presunta falla di sicurezza The Guardian.</description>
+    </item>
+    <item>
       <title>Dati macroeconomici e rating</title>
       <link>https://nelsonmau.github.io/ecodaily/news/2026-11-15/dati-macroeconomici-e-rating/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-15/dati-macroeconomici-e-rating/</guid>
@@ -431,27 +466,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-02-settimanale/scenari-macroeconomici-e-debito-pubblico-in-europa/</guid>
       <pubDate>Mon, 02 Nov 2026 07:00:00 GMT</pubDate>
       <description>Nel contesto europeo, la crescita economica dell'Eurozona si e' dimostrata superiore alle attese nel terzo trimestre, come riferito dal Financial Times.</description>
-    </item>
-    <item>
-      <title>Economia e finanza in Europa</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-01/economia-e-finanza-in-europa/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-01/economia-e-finanza-in-europa/</guid>
-      <pubDate>Sun, 01 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Nel terzo trimestre la crescita economica dell'Eurozona si è rivelata superiore alle attese, sebbene la Francia abbia registrato dati inferiori alle previsioni secondo i dati riportati dal Financial Times.</description>
-    </item>
-    <item>
-      <title>Inflazione e manovra in Italia</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-01/inflazione-e-manovra-in-italia/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-01/inflazione-e-manovra-in-italia/</guid>
-      <pubDate>Sun, 01 Nov 2026 07:00:00 GMT</pubDate>
-      <description>A ottobre in Italia l'inflazione ha raggiunto il 5,4%, segnando il valore più alto degli ultimi tre anni a causa della crisi energetica, come rilevato dall'Il Post.</description>
-    </item>
-    <item>
-      <title>Settore bancario e mercati tecnologici</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-01/settore-bancario-e-mercati-tecnologici/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-01/settore-bancario-e-mercati-tecnologici/</guid>
-      <pubDate>Sun, 01 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Gli azionisti di MPS hanno bocciato il piano dell'amministratore delegato Luigi Lovaglio per ostacolare l'acquisizione da parte di Intesa Sanpaolo, aprendo la strada all'operazione come spiega Il Post.</description>
     </item>
   </channel>
 </rss>
