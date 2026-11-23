@@ -95,17 +95,17 @@
     "esito": "dialogo_ok"
   },
   "video": {
-    "esito": "scaduto",
+    "esito": "con_avvisi",
     "controlli": [
       {
         "id": "V1",
         "nome": "Numeri nella fonte",
-        "esito": "violazione"
+        "esito": "ok"
       },
       {
         "id": "V2",
         "nome": "Coerenza con la fonte",
-        "esito": "avviso"
+        "esito": "ok"
       },
       {
         "id": "V4",
@@ -115,7 +115,7 @@
       {
         "id": "V6",
         "nome": "Numeri detti e numeri a schermo",
-        "esito": "avviso"
+        "esito": "ok"
       }
     ]
   }

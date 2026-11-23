@@ -16,6 +16,18 @@
     <itunes:owner><itunes:name>Andrea Nelson Mauro</itunes:name><itunes:email>nelson@ondata.it</itunes:email></itunes:owner>
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <item>
+      <title>Settimanale: Manovra, tensioni e turbolenze sui mercati tra banche e tecnologia</title>
+      <description>Il ricapitolo della settimana (dal 2026-11-17 al 2026-11-23). Temi: Negoziati sulla manovra di bilancio e fisco; Banche e risistemazione degli assetti creditizi; Intelligenza artificiale e scossoni sui mercati finanziari; Quadro macroeconomico, inflazione e lavoro; Industria, acciaio e materie prime. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-11-23-settimanale/</description>
+      <itunes:summary>Il ricapitolo della settimana (dal 2026-11-17 al 2026-11-23). Temi: Negoziati sulla manovra di bilancio e fisco; Banche e risistemazione degli assetti creditizi; Intelligenza artificiale e scossoni sui mercati finanziari; Quadro macroeconomico, inflazione e lavoro; Industria, acciaio e materie prime. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-11-23-settimanale/</itunes:summary>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-23-settimanale/</link>
+      <guid isPermaLink="false">ecodaily-2026-11-23-settimanale</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://nelsonmau.github.io/ecodaily/podcast/2026-11-23-settimanale.mp3" length="9988431" type="audio/mpeg"/>
+      <itunes:duration>00:10:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Manovra e fisco, accordo Ue-Indonesia, flessione dei mercati e lavoro in Italia</title>
       <description>Le notizie economiche del giorno. Temi: Manovra e misure fiscali; Commercio internazionale e accordi Ue; Andamento dei mercati e settore tech; Mercato del lavoro in Italia e in Europa; Economia del mare e aerospazio. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-11-22/</description>
       <itunes:summary>Le notizie economiche del giorno. Temi: Manovra e misure fiscali; Commercio internazionale e accordi Ue; Andamento dei mercati e settore tech; Mercato del lavoro in Italia e in Europa; Economia del mare e aerospazio. Voce sintetica generata con l'intelligenza artificiale, testi scritti con l'intelligenza artificiale a partire da articoli di altre testate. Testo e fonti: https://nelsonmau.github.io/ecodaily/2026-11-22/</itunes:summary>
