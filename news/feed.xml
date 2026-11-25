@@ -6,6 +6,27 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Commercio internazionale e dazi</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-25/commercio-internazionale-e-dazi/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-25/commercio-internazionale-e-dazi/</guid>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Gli Stati Uniti si preparano ad annunciare questa settimana nuovi dazi verso la Cina e l'Unione Europea, riaccendendo le tensioni commerciali secondo Milano Finanza.</description>
+    </item>
+    <item>
+      <title>Finanze pubbliche europee e manovra italiana</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-25/finanze-pubbliche-europee-e-manovra-italiana/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-25/finanze-pubbliche-europee-e-manovra-italiana/</guid>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 GMT</pubDate>
+      <description>La Commissione europea ha espresso parere favorevole sul Documento programmatico di bilancio dell'Italia per il 2027, confermando la possibilità di uscire in primavera dalla procedura per deficit eccessivo, a patto che il disavanzo 2026 resti sotto il 3% del PIL e le stime future confermino il…</description>
+    </item>
+    <item>
+      <title>Imprese, telecomunicazioni e contratti internazionali</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-25/imprese-telecomunicazioni-e-contratti-internazionali/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-25/imprese-telecomunicazioni-e-contratti-internazionali/</guid>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Nel settore industriale e delle telecomunicazioni, il Parlamento europeo ha dato il via libera a semplificazioni normative per le imprese a media capitalizzazione fino a mille dipendenti e 200 milioni di fatturato, riferisce Il Sole 24 Ore.</description>
+    </item>
+    <item>
       <title>Risiko bancario in Italia e in Europa</title>
       <link>https://nelsonmau.github.io/ecodaily/news/2026-11-24/risiko-bancario-in-italia-e-in-europa/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-24/risiko-bancario-in-italia-e-in-europa/</guid>
@@ -445,41 +466,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-11/normative-e-fiscalita-europea/</guid>
       <pubDate>Wed, 11 Nov 2026 07:00:00 GMT</pubDate>
       <description>La Commissione europea presenta il Digital Fairness Act per contrastare il dynamic pricing e il design ingannevole online, prevedendo sanzioni fino al 6% del fatturato annuo globale, come riporta Politico Europe.</description>
-    </item>
-    <item>
-      <title>Risiko bancario in Italia</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-10/risiko-bancario-in-italia/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-10/risiko-bancario-in-italia/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Crédit Agricole ha proposto una fusione amichevole con BancoBpm senza lanciare un'Opa, puntando a salire al 45% del capitale per creare il terzo polo bancario italiano con 6,5 milioni di clienti e oltre 2.300 filiali, come riporta Il Sole 24 Ore.</description>
-    </item>
-    <item>
-      <title>Misure governative e spesa pubblica</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-10/misure-governative-e-spesa-pubblica/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-10/misure-governative-e-spesa-pubblica/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Il governo ha approvato il Dl Bollette che introduce da gennaio un taglio di 15 euro a megawattora, insieme al Dl Infrastrutture che porta a 50 milioni di euro il fondo per i genitori separati e ne stanzia 35 per il deposito Gnl di Vado Ligure, come riporta il Corriere della Sera.</description>
-    </item>
-    <item>
-      <title>Operazioni industriali e intese</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-10/operazioni-industriali-e-intese/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-10/operazioni-industriali-e-intese/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Cnh ha siglato un accordo da 700 milioni di dollari per cedere il 70% della sua divisione macchine per le costruzioni alla giapponese Kobelco, mantenendo il 30% in joint venture per concentrarsi sul settore agricolo, riferisce La Stampa.</description>
-    </item>
-    <item>
-      <title>Economia immobiliare, lavoro e finanza personale</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-10/economia-immobiliare-lavoro-e-finanza-personale/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-10/economia-immobiliare-lavoro-e-finanza-personale/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <description>In Italia il rapporto tra i prezzi delle abitazioni e i redditi e sceso di circa il 10% negli ultimi dieci anni, in controtendenza rispetto alla media europea, secondo i dati Eurostat diffusi da Il Foglio.</description>
-    </item>
-    <item>
-      <title>Politica internazionale e sicurezza</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-10/politica-internazionale-e-sicurezza/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-10/politica-internazionale-e-sicurezza/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <description>La Commissione Europea ha annunciato uno stanziamento di 50 milioni di euro per completare il centro di sicurezza marittima nel Mar Nero e 10 milioni per le operazioni di soccorso della Romania dopo gli attacchi ai navigli commerciali, riporta Politico Europe.</description>
     </item>
   </channel>
 </rss>
