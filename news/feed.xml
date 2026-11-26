@@ -6,6 +6,27 @@
     <description>Le notizie economiche del giorno, scritte con l'intelligenza artificiale a partire da articoli di altre testate.</description>
     <language>it</language>
     <item>
+      <title>Politica economica e manovra</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-26/politica-economica-e-manovra/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-26/politica-economica-e-manovra/</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Gli Stati Uniti hanno proposto nuovi dazi nei confronti di quattordici partner commerciali, tra cui l'Europa e la Cina, a seguito di un'indagine durata otto mesi come riporta Milano Finanza.</description>
+    </item>
+    <item>
+      <title>Banca e finanza</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-26/banca-e-finanza/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-26/banca-e-finanza/</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Unicredit ha ottenuto l'autorizzazione finale dall'autorità di vigilanza finanziaria polacca KnF per l'acquisizione di Commerzbank, chiudendo il cerchio dei via libera necessari e convocando un'assemblea straordinaria come spiega La Stampa.</description>
+    </item>
+    <item>
+      <title>Fisco ed evasione in Europa e Italia</title>
+      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-26/fisco-ed-evasione-in-europa-e-italia/</link>
+      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-26/fisco-ed-evasione-in-europa-e-italia/</guid>
+      <pubDate>Thu, 26 Nov 2026 07:00:00 GMT</pubDate>
+      <description>Le tasse non riscosse nell'Unione europea ammontano a circa 200 miliardi di euro l'anno, pari all'1% del Pil comunitario, trainate principalmente dai 125 miliardi di mancato gettito Iva secondo il report della Commissione europea citato da Il Sole 24 Ore.</description>
+    </item>
+    <item>
       <title>Commercio internazionale e dazi</title>
       <link>https://nelsonmau.github.io/ecodaily/news/2026-11-25/commercio-internazionale-e-dazi/</link>
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-25/commercio-internazionale-e-dazi/</guid>
@@ -438,34 +459,6 @@
       <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-12/indicatori-economici-globali-e-industria/</guid>
       <pubDate>Thu, 12 Nov 2026 07:00:00 GMT</pubDate>
       <description>L'economia del Regno Unito ha registrato una crescita dello 0,7% nel terzo trimestre del 2026, sostenuta dall'aumento dello 0,2% nel mese di settembre, nonostante la pressione derivante dai prezzi energetici, segnala The Guardian.</description>
-    </item>
-    <item>
-      <title>Commercio globale ed export cinese</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-11/commercio-globale-ed-export-cinese/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-11/commercio-globale-ed-export-cinese/</guid>
-      <pubDate>Wed, 11 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Il surplus commerciale della Cina ha raggiunto i mille miliardi di dollari, trainato da una crescita del 35% delle esportazioni favorito da beni a prezzi bassi.</description>
-    </item>
-    <item>
-      <title>Trattative diplomatiche internazionali</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-11/trattative-diplomatiche-internazionali/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-11/trattative-diplomatiche-internazionali/</guid>
-      <pubDate>Wed, 11 Nov 2026 07:00:00 GMT</pubDate>
-      <description>Ad Abu Dhabi si è tenuto il primo incontro formale da febbraio 2025 tra delegazioni di Russia e Ucraina, alla presenza degli inviati statunitensi Steve Witkoff e Jared Kushner. Come spiega Internazionale, i Paesi europei sono stati consultati ma restano esclusi dai colloqui.</description>
-    </item>
-    <item>
-      <title>Risiko bancario e risultati finanziari</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-11/risiko-bancario-e-risultati-finanziari/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-11/risiko-bancario-e-risultati-finanziari/</guid>
-      <pubDate>Wed, 11 Nov 2026 07:00:00 GMT</pubDate>
-      <description>La Consob ha approvato l'Opas da 31,8 miliardi di euro di Intesa Sanpaolo su Monte dei Paschi di Siena, con adesioni aperte dal 24 novembre 2026 al 22 gennaio 2027, mentre la Bce chiede un piano entro sei mesi, riportano Wall Street Italia e La Stampa.</description>
-    </item>
-    <item>
-      <title>Normative e fiscalità europea</title>
-      <link>https://nelsonmau.github.io/ecodaily/news/2026-11-11/normative-e-fiscalita-europea/</link>
-      <guid isPermaLink="true">https://nelsonmau.github.io/ecodaily/news/2026-11-11/normative-e-fiscalita-europea/</guid>
-      <pubDate>Wed, 11 Nov 2026 07:00:00 GMT</pubDate>
-      <description>La Commissione europea presenta il Digital Fairness Act per contrastare il dynamic pricing e il design ingannevole online, prevedendo sanzioni fino al 6% del fatturato annuo globale, come riporta Politico Europe.</description>
     </item>
   </channel>
 </rss>
